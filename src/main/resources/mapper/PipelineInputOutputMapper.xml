@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hebta.plato.dao.PipelineInputOutputMapper">
+  <resultMap id="PipelineInputBaseResultMap" type="com.hebta.plato.pojo.PipelineInput">
+    <result column="FILE_ID" jdbcType="BIGINT" property="fileId" />
+    <result column="PIPELINE_ID" jdbcType="BIGINT" property="pipelineId" />
+    <result column="FILE_NAME" jdbcType="VARCHAR" property="fileName" />
+    <result column="FILE_TYPE" jdbcType="VARCHAR" property="fileType" />
+    <result column="ENCODER" jdbcType="VARCHAR" property="encoder" />
+    <result column="FILE_CONTENT" jdbcType="CLOB" property="fileContent" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="CREATED_BY" jdbcType="VARCHAR" property="createdBy" />
+  </resultMap>
+  <resultMap id="PipelineOutputBaseResultMap" type="com.hebta.plato.pojo.PipelineOutput">
+    <result column="FILE_ID" jdbcType="BIGINT" property="fileId" />
+    <result column="PIPELINE_ID" jdbcType="BIGINT" property="pipelineId" />
+    <result column="FILE_NAME" jdbcType="VARCHAR" property="fileName" />
+    <result column="FILE_TYPE" jdbcType="VARCHAR" property="fileType" />
+    <result column="ENCODER" jdbcType="VARCHAR" property="encoder" />
+    <result column="XMI_CONTENT" jdbcType="CLOB" property="xmiContent" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="CREATED_BY" jdbcType="VARCHAR" property="createdBy" />
+    <result column="INPUT_FILE_ID" jdbcType="BIGINT" property="inputFileId" />
+    <result column="TOKEN_CONTENT" jdbcType="CLOB" property="tokenContent" />
+    <result column="ORI_CONTENT" jdbcType="CLOB" property="oriContent" />
+    <result column="TXT_CONTENT" jdbcType="CLOB" property="txtContent" />
+  </resultMap>
+  
+  <insert id="insertPipelineInput" parameterType="com.hebta.plato.pojo.PipelineInput">
+  	<selectKey keyProperty="fileId" resultType="long" order="BEFORE">
+         select PIPELINE_INPUT_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into PIPELINE_INPUT (FILE_ID, PIPELINE_ID, FILE_NAME, FILE_TYPE, ENCODER, FILE_CONTENT, CREATED_TIME, CREATED_BY)
+    values (#{fileId,jdbcType=BIGINT}, #{pipelineId,jdbcType=BIGINT}, #{fileName,jdbcType=VARCHAR},
+    	#{fileType,jdbcType=VARCHAR}, #{encoder,jdbcType=VARCHAR}, #{fileContent,jdbcType=CLOB},
+    	#{createdTime,jdbcType=TIMESTAMP}, #{createdBy,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertPipelineOutput" parameterType="com.hebta.plato.pojo.PipelineOutput">
+  	<selectKey keyProperty="fileId" resultType="long" order="BEFORE">
+         select PIPELINE_OUTPUT_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into PIPELINE_OUTPUT (FILE_ID, PIPELINE_ID, FILE_NAME, FILE_TYPE, ENCODER, XMI_CONTENT, CREATED_TIME, CREATED_BY, INPUT_FILE_ID, TOKEN_CONTENT, ORI_CONTENT, TXT_CONTENT)
+    values (#{fileId,jdbcType=BIGINT}, #{pipelineId,jdbcType=BIGINT}, #{fileName,jdbcType=VARCHAR},
+    	#{fileType,jdbcType=VARCHAR}, #{encoder,jdbcType=VARCHAR}, #{xmiContent,jdbcType=CLOB},
+    	#{createdTime,jdbcType=TIMESTAMP}, #{createdBy,jdbcType=VARCHAR}, #{inputFileId,jdbcType=BIGINT}, 
+    	#{tokenContent,jdbcType=CLOB}, #{oriContent,jdbcType=CLOB}, #{txtContent,jdbcType=CLOB})
+  </insert>
+  
+  <select id="selectPipelineInputByPipeLineId" resultMap="PipelineInputBaseResultMap" parameterType="java.lang.Long" >
+    select * from PIPELINE_INPUT
+    where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+    order by FILE_ID desc
+  </select>
+  <select id="selectPipelineOutputByPipeLineId" resultMap="PipelineOutputBaseResultMap" parameterType="java.lang.Long" >
+    select * from PIPELINE_OUTPUT
+    where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+    order by FILE_ID desc, FILE_TYPE desc
+  </select>
+  
+  <select id="selectPipelineInputByPrimaryKey" resultMap="PipelineInputBaseResultMap" parameterType="java.lang.Long" >
+    select * from PIPELINE_INPUT
+    where FILE_ID = #{fileId,jdbcType=BIGINT}
+  </select>
+  <select id="selectPipelineOutputByPrimaryKey" resultMap="PipelineOutputBaseResultMap" parameterType="java.lang.Long" >
+    select * from PIPELINE_OUTPUT
+    where FILE_ID = #{fileId,jdbcType=BIGINT}
+  </select>
+  
+  <select id="selectPipelineInputWithPagination" resultType="com.hebta.plato.dto.FileNameToType">
+  	select FILE_ID as fileId, FULL_NAME as fullName, 'txt' as type from (
+	    select FILE_ID, FILE_NAME||'.txt' as FULL_NAME, ROWNUM as rn from PIPELINE_INPUT
+	    where PIPELINE_ID = ${pipelineId}
+	    order by FILE_ID desc
+	) where rn between  ((${page} - 1) * ${countPerPage} +1) AND (${page} * ${countPerPage})
+	order by FILE_ID desc
+  </select>
+  <select id="selectPipelineOutputWithPagination" resultType="com.hebta.plato.dto.FileNameToType">
+  select FILE_ID as fileId, FULL_NAME as fullName, FILE_TYPE as type from (
+    select FILE_ID, FULL_NAME, FILE_TYPE from (
+	    select FILE_ID, FILE_NAME||'.txt' as FULL_NAME, 'txt' as FILE_TYPE, ROWNUM as rn from PIPELINE_OUTPUT
+	    where PIPELINE_ID = ${pipelineId}
+	    order by FILE_ID desc
+	) where rn between  ((${page} - 1) * ${countPerPage} +1) AND (${page} * ${countPerPage})
+	union all
+	select FILE_ID, FULL_NAME, FILE_TYPE from (
+	    select FILE_ID, FILE_NAME||'.xmi' as FULL_NAME, 'xmi' as FILE_TYPE, ROWNUM as rn from PIPELINE_OUTPUT
+	    where PIPELINE_ID = ${pipelineId}
+	    order by FILE_ID desc
+	) where rn between  ((${page} - 1) * ${countPerPage} +1) AND (${page} * ${countPerPage})
+  ) order by FILE_ID desc, FILE_TYPE desc
+  </select>
+  
+  <select id="selectTotalCountInputByPipelineId" resultType="java.lang.Integer" parameterType="java.lang.Long" >
+    select count(*) from PIPELINE_INPUT
+    where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+  </select>
+  <select id="selectTotalCountOutputByPipelineId" resultType="java.lang.Integer" parameterType="java.lang.Long" >
+    select count(*) from PIPELINE_OUTPUT
+    where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+  </select>
+  
+  <delete id="deletePipelineInputByPipelineId" parameterType="java.lang.Long">
+    delete from PIPELINE_INPUT
+    where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deletePipelineOutputByPipelineId" parameterType="java.lang.Long">
+    delete from PIPELINE_OUTPUT
+    where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deletePipelineInputByFileId" parameterType="java.lang.Long">
+    delete from PIPELINE_INPUT
+    where FILE_ID = #{fileId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deletePipelineOutputByFileId" parameterType="java.lang.Long">
+    delete from PIPELINE_OUTPUT
+    where FILE_ID = #{fileId,jdbcType=BIGINT}
+  </delete>
+  
+  <select id="selectOutputFileByFileIds" parameterType="java.util.List" resultMap="PipelineOutputBaseResultMap">
+    select * from PIPELINE_OUTPUT
+    where FILE_ID in
+    <foreach item="item" index="index" collection="list" open="(" separator="," close=")"> 
+		#{item} 
+	</foreach>
+  </select>
+</mapper>

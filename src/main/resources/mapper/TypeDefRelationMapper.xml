@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hebta.plato.dao.TypeDefRelationMapper">
+  <resultMap id="BaseResultMap" type="com.hebta.plato.pojo.TypeDefRelation">
+    <result column="ID" jdbcType="BIGINT" property="id" />
+    <result column="PROJECT_ID" jdbcType="BIGINT" property="projectId" />
+    <result column="TYPE" jdbcType="VARCHAR" property="type" />
+    <result column="LABELS_STR" jdbcType="VARCHAR" property="labelsStr" />
+    <result column="DASH_ARRAY" jdbcType="VARCHAR" property="dashArray" />
+    <result column="COLOR" jdbcType="VARCHAR" property="color" />
+    <result column="FROM_TARGETS" jdbcType="VARCHAR" property="fromTargets" />
+    <result column="TO_TARGETS" jdbcType="VARCHAR" property="toTargets" />
+  </resultMap>
+  <insert id="insert" parameterType="com.hebta.plato.pojo.TypeDefRelation">
+  	<selectKey keyProperty="id" resultType="long" order="BEFORE">
+         select TYPEDEF_RELATION_SEQ.nextval from dual
+    </selectKey>
+    insert into PLATO.TYPEDEF_RELATION (ID, PROJECT_ID, TYPE, LABELS_STR, DASH_ARRAY, 
+    	COLOR, FROM_TARGETS, TO_TARGETS)
+    values (#{id,jdbcType=BIGINT}, #{projectId,jdbcType=BIGINT}, #{type,jdbcType=VARCHAR}, 
+      #{labelsStr,jdbcType=VARCHAR}, #{dashArray,jdbcType=VARCHAR}, #{color,jdbcType=VARCHAR}, 
+      #{fromTargets,jdbcType=VARCHAR}, #{toTargets,jdbcType=VARCHAR})
+  </insert>
+  <update id="update" parameterType="com.hebta.plato.pojo.TypeDefRelation">
+    update TYPEDEF_RELATION
+    set TYPE = #{type,jdbcType=VARCHAR}, 
+      LABELS_STR = #{labelsStr,jdbcType=VARCHAR}, 
+      DASH_ARRAY = #{dashArray,jdbcType=VARCHAR}, 
+      COLOR = #{color,jdbcType=VARCHAR}, 
+      FROM_TARGETS = #{fromTargets,jdbcType=VARCHAR}, 
+      TO_TARGETS = #{toTargets,jdbcType=VARCHAR}
+    where ID = #{id,jdbcType=BIGINT}
+  </update>
+  <delete id="delete" parameterType="java.lang.Long">
+    delete from TYPEDEF_RELATION
+    where ID = #{id,jdbcType=BIGINT}
+  </delete>
+  <delete id="batchDelete" parameterType="java.util.List">
+    delete from TYPEDEF_RELATION
+    where ID in 
+    <foreach collection="list" item="item" index="index" open="(" separator="," close=")"> 
+		#{item}
+	</foreach>
+  </delete>
+  <select id="selectById" parameterType="java.lang.Long" resultMap="BaseResultMap">
+  	SELECT * FROM TYPEDEF_RELATION WHERE ID = #{id,jdbcType=BIGINT}
+  </select>
+  <select id="selectByProjectId" parameterType="java.lang.Long" resultMap="BaseResultMap">
+  	SELECT * FROM TYPEDEF_RELATION WHERE PROJECT_ID = #{projectId,jdbcType=BIGINT}
+  </select>
+</mapper>

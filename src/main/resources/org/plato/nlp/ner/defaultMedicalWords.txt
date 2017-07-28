@@ -1,0 +1,4792 @@
+脱 垂	problem
+下 垂	problem
+融 合 齿	problem
+结 合 齿	problem
+龋 齿	problem
+圆 锥 齿	problem
+圆 椎 齿	problem
+阻 生 齿	problem
+套 叠 齿	problem
+臼 齿	problem
+阿 哥 拉	problem
+鼠 伤 寒	problem
+中 毒 型	problem
+大 肠 杆 菌	problem
+感 染	problem
+肠 道	problem
+病 原 性	problem
+艰 难 梭 状 芽 胞 杆 菌 性	problem
+艰 难 梭 状 芽 胞 杆 菌	problem
+产 气 荚 膜 梭 状 芽 胞 杆 菌	problem
+芽 胞 杆 菌	problem
+诺 沃 克 组	problem
+E B 病 毒	problem
+E B 病 毒 性	problem
+增 殖 型	problem
+结 核	problem
+结 核 瘤	problem
+干 酪 性	problem
+支 气 管	problem
+扩 张	problem
+声 带	problem
+气 管	problem
+支 气 管	problem
+一 期	problem
+一 级	problem
+丁 型	problem
+三 日	problem
+三 期	problem
+上 肢	problem
+上 颌	problem
+下 疳	problem
+下 颌	problem
+不 伴	problem
+不 育	problem
+不 良	problem
+不 足	problem
+丙 酸	problem
+东 方	problem
+丝 菌	problem
+丝 虫	problem
+两 性	problem
+严 重	problem
+中 度	problem
+中 期	problem
+中 毒	problem
+中 部	problem
+临 床	problem
+丹 毒	problem
+为 主	problem
+乙 型	problem
+乙 脑	problem
+乳 头	problem
+乳 糖	problem
+乳 腺	problem
+二 期	problem
+二 级	problem
+亚 类	problem
+亢 进	problem
+产 后	problem
+产 科	problem
+亨 特	problem
+人 为	problem
+代 谢	problem
+休 克	problem
+会 厌	problem
+伤 口	problem
+伤 寒	problem
+伦 敦	problem
+伯 克	problem
+伴 囊	problem
+伴 多	problem
+伴 对	problem
+伴 有	problem
+伴 眼	problem
+伴 高	problem
+低 氯	problem
+低 磷	problem
+低 钙	problem
+低 镁	problem
+佐 林	problem
+体 癣	problem
+佩 尔	problem
+使 用	problem
+修 饰	problem
+倒 睫	problem
+倾 向	problem
+假 性	problem
+假 瘤	problem
+偏 瘫	problem
+停 滞	problem
+元 素	problem
+克 里	problem
+克 隆	problem
+免 疫	problem
+全 身	problem
+共 同	problem
+关 节	problem
+内 痔	problem
+内 脏	problem
+内 部	problem
+冠 状	problem
+冷 型	problem
+冷 性	problem
+减 低	problem
+减 少	problem
+减 退	problem
+凝 血	problem
+凯 利	problem
+出 血	problem
+分 娩	problem
+分 泌	problem
+分 解	problem
+切 断	problem
+刚 果	problem
+初 发	problem
+初 期	problem
+利 尿	problem
+前 庭	problem
+功 能	problem
+加 重	problem
+包 块	problem
+医 疗	problem
+卒 中	problem
+单 个	problem
+单 纯	problem
+危 象	problem
+卵 巢	problem
+卵 形	problem
+厌 食	problem
+反 应	problem
+反 流	problem
+发 作	problem
+发 热	problem
+发 育	problem
+受 累	problem
+变 型	problem
+变 形	problem
+变 性	problem
+变 种	problem
+口 炎	problem
+口 腔	problem
+叶 酸	problem
+合 并	problem
+同 型	problem
+后 睾	problem
+吸 收	problem
+呕 吐	problem
+周 围	problem
+呼 吸	problem
+咨 询	problem
+咽 炎	problem
+咽 部	problem
+哮 喘	problem
+喉 炎	problem
+嗜 碱	problem
+嘌 呤	problem
+嘧 啶	problem
+器 官	problem
+囊 性	problem
+囊 肿	problem
+因 子	problem
+坏 死	problem
+坏 疽	problem
+垂 体	problem
+型 地	problem
+埃 及	problem
+城 市	problem
+增 加	problem
+增 多	problem
+增 生	problem
+增 高	problem
+声 带	problem
+复 合	problem
+复 征	problem
+夏 科	problem
+外 因	problem
+外 地	problem
+外 痔	problem
+外 耳	problem
+外 阴	problem
+多 个	problem
+多 分	problem
+多 发	problem
+多 瘤	problem
+多 种	problem
+大 脑	problem
+大 腺	problem
+大 腿	problem
+天 花	problem
+失 明	problem
+失 血	problem
+失 衡	problem
+失 语	problem
+失 调	problem
+头 痛	problem
+头 癣	problem
+奈 泽	problem
+奎 尔	problem
+女 性	problem
+婴 儿	problem
+子 宫	problem
+实 性	problem
+室 性	problem
+尺 骨	problem
+尼 曼	problem
+尼 汉	problem
+尿 症	problem
+尿 素	problem
+局 部	problem
+属 性	problem
+巨 大	problem
+巴 特	problem
+巴 西	problem
+帝 汶	problem
+常 见	problem
+平 衡	problem
+并 发	problem
+并 殖	problem
+幼 虫	problem
+幽 门	problem
+广 州	problem
+库 欣	problem
+庚 型	problem
+延 迟	problem
+延 长	problem
+异 位	problem
+异 常	problem
+异 物	problem
+引 起	problem
+弧 菌	problem
+弱 视	problem
+弹 性	problem
+形 式	problem
+形 成	problem
+循 环	problem
+心 炎	problem
+心 脏	problem
+必 需	problem
+急 性	problem
+性 腺	problem
+息 肉	problem
+恶 性	problem
+悬 浮	problem
+情 况	problem
+感 冒	problem
+感 染	problem
+慢 性	problem
+成 人	problem
+成 年	problem
+或 伴	problem
+或 有	problem
+截 瘫	problem
+房 性	problem
+扁 平	problem
+手 术	problem
+手 癣	problem
+手 足	problem
+扭 转	problem
+抑 制	problem
+抗 体	problem
+抗 原	problem
+抵 抗	problem
+抽 搐	problem
+持 续	problem
+指 甲	problem
+指 骨	problem
+损 伤	problem
+损 害	problem
+掌 骨	problem
+接 种	problem
+接 近	problem
+搐 搦	problem
+摄 入	problem
+支 睾	problem
+支 链	problem
+效 应	problem
+敏 感	problem
+数 量	problem
+文 森	problem
+斑 点	problem
+斜 视	problem
+斜 颈	problem
+新 型	problem
+日 本	problem
+早 发	problem
+早 搏	problem
+早 期	problem
+早 熟	problem
+早 衰	problem
+昏 迷	problem
+易 性	problem
+显 著	problem
+晕 厥	problem
+晚 期	problem
+普 通	problem
+月 经	problem
+有 关	problem
+朗 格	problem
+未 做	problem
+未 定	problem
+术 后	problem
+朱 宁	problem
+机 能	problem
+极 性	problem
+果 糖	problem
+核 性	problem
+核 苷	problem
+格 勒	problem
+桡 骨	problem
+桥 本	problem
+梅 毒	problem
+梗 死	problem
+检 查	problem
+森 林	problem
+森 高	problem
+植 物	problem
+楔 骨	problem
+欧 洲	problem
+正 常	problem
+毒 性	problem
+毒 症	problem
+比 托	problem
+比 翼	problem
+气 性	problem
+气 管	problem
+气 胸	problem
+水 痘	problem
+水 肿	problem
+汉 斯	problem
+沙 眼	problem
+泌 功	problem
+泌 尿	problem
+泡 性	problem
+洛 夫	problem
+洛 氏	problem
+活 动	problem
+流 产	problem
+流 感	problem
+浅 部	problem
+消 瘦	problem
+涉 及	problem
+涎 腺	problem
+液 体	problem
+淋 巴	problem
+混 合	problem
+渗 性	problem
+温 型	problem
+湿 性	problem
+湿 疣	problem
+湿 疹	problem
+溃 疡	problem
+溶 血	problem
+溶 解	problem
+滑 膜	problem
+激 素	problem
+灰 色	problem
+灼 性	problem
+炎 性	problem
+炎 症	problem
+炭 疽	problem
+烟 酸	problem
+烧 伤	problem
+热 带	problem
+热 性	problem
+热 能	problem
+牙 瘤	problem
+物 质	problem
+特 征	problem
+特 性	problem
+特 指	problem
+状 态	problem
+狭 窄	problem
+狼 疮	problem
+猴 痘	problem
+环 性	problem
+生 成	problem
+生 病	problem
+生 长	problem
+甲 基	problem
+甲 癣	problem
+男 性	problem
+界 线	problem
+畸 形	problem
+疟 疾	problem
+疤 痕	problem
+疱 疹	problem
+疹 性	problem
+疹 病	problem
+疼 痛	problem
+疾 患	problem
+疾 病	problem
+病 变	problem
+病 性	problem
+病 毒	problem
+病 理	problem
+症 状	problem
+痒 病	problem
+痛 性	problem
+痛 经	problem
+痛 风	problem
+痢 疾	problem
+痤 疮	problem
+痴 呆	problem
+瘢 痕	problem
+瘤 型	problem
+瘫 痪	problem
+瘭 疽	problem
+癌 性	problem
+癫 痫	problem
+登 革	problem
+白 发	problem
+白 喉	problem
+白 癣	problem
+白 色	problem
+皮 下	problem
+皮 克	problem
+皮 炎	problem
+皮 疹	problem
+皮 肤	problem
+皮 质	problem
+盆 腔	problem
+直 肠	problem
+真 性	problem
+真 菌	problem
+眩 晕	problem
+眼 炎	problem
+眼 病	problem
+眼 眶	problem
+眼 睑	problem
+眼 腺	problem
+眼 部	problem
+睾 丸	problem
+瞳 孔	problem
+短 暂	problem
+破 裂	problem
+硬 化	problem
+碘 性	problem
+碱 性	problem
+神 经	problem
+积 液	problem
+稀 少	problem
+空 泡	problem
+穿 孔	problem
+窦 性	problem
+窦 道	problem
+类 癌	problem
+粘 膜	problem
+糖 原	problem
+糖 尿	problem
+系 统	problem
+紊 乱	problem
+素 性	problem
+紫 热	problem
+紫 瘢	problem
+紫 癜	problem
+紫 癫	problem
+累 及	problem
+红 斑	problem
+纤 维	problem
+纳 贾	problem
+纵 隔	problem
+线 虫	problem
+组 织	problem
+细 小	problem
+细 胞	problem
+细 菌	problem
+结 构	problem
+结 核	problem
+结 肠	problem
+结 节	problem
+维 勒	problem
+缺 乏	problem
+缺 失	problem
+缺 如	problem
+缺 陷	problem
+罗 托	problem
+美 洲	problem
+耳 聋	problem
+耻 骨	problem
+联 合	problem
+肉 毒	problem
+肉 瘤	problem
+肉 碱	problem
+肋 间	problem
+肋 骨	problem
+肌 性	problem
+肌 炎	problem
+肌 病	problem
+肌 痛	problem
+肌 肉	problem
+肌 腱	problem
+肛 周	problem
+肛 瘘	problem
+肛 裂	problem
+肛 门	problem
+肝 含	problem
+肝 性	problem
+肝 炎	problem
+肝 片	problem
+肝 病	problem
+肝 管	problem
+肝 门	problem
+肠 外	problem
+肠 炎	problem
+肠 病	problem
+肠 道	problem
+股 疝	problem
+股 癣	problem
+股 骨	problem
+肢 端	problem
+肥 大	problem
+肥 胖	problem
+肱 骨	problem
+肺 含	problem
+肺 性	problem
+肺 炎	problem
+肺 病	problem
+肺 门	problem
+肾 上	problem
+肾 型	problem
+肾 性	problem
+肾 炎	problem
+肾 病	problem
+肾 瘤	problem
+肿 块	problem
+肿 物	problem
+肿 瘤	problem
+胃 炎	problem
+胃 肠	problem
+胆 囊	problem
+胆 管	problem
+胆 道	problem
+背 部	problem
+胎 儿	problem
+胞 内	problem
+胫 骨	problem
+胰 岛	problem
+胰 性	problem
+胰 腺	problem
+胶 性	problem
+胸 内	problem
+胸 壁	problem
+胸 椎	problem
+胸 腔	problem
+胸 腺	problem
+胸 膜	problem
+能 瘤	problem
+能 量	problem
+脂 性	problem
+脂 肪	problem
+脂 质	problem
+脆 弱	problem
+脆 性	problem
+脊 柱	problem
+脊 髓	problem
+脐 疝	problem
+脑 型	problem
+脑 性	problem
+脑 炎	problem
+脑 疝	problem
+脑 病	problem
+脑 瘫	problem
+脑 腱	problem
+脑 膜	problem
+脓 癣	problem
+脓 肿	problem
+脓 胸	problem
+脚 癣	problem
+脱 位	problem
+脱 发	problem
+脱 水	problem
+脾 大	problem
+腋 下	problem
+腓 骨	problem
+腭 裂	problem
+腮 腺	problem
+腰 椎	problem
+腰 部	problem
+腹 型	problem
+腹 壁	problem
+腹 水	problem
+腹 泻	problem
+腹 腔	problem
+腹 膜	problem
+腹 部	problem
+腺 性	problem
+腺 瘤	problem
+腺 癌	problem
+膀 胱	problem
+膈 疝	problem
+膜 性	problem
+臀 部	problem
+臂 内	problem
+自 身	problem
+舌 炎	problem
+良 伴	problem
+良 性	problem
+艾 柯	problem
+艾 迪	problem
+芳 香	problem
+苔 癣	problem
+苛 性	problem
+苷 脂	problem
+药 物	problem
+药 疹	problem
+莱 施	problem
+菌 病	problem
+萎 缩	problem
+营 养	problem
+蓝 痣	problem
+虫 媒	problem
+蛋 白	problem
+蜡 样	problem
+蝶 鞍	problem
+螨 性	problem
+血 内	problem
+血 尿	problem
+血 浆	problem
+血 液	problem
+血 症	problem
+血 管	problem
+血 胸	problem
+表 型	problem
+表 现	problem
+衰 竭	problem
+西 方	problem
+角 膜	problem
+许 特	problem
+证 实	problem
+诺 克	problem
+谵 妄	problem
+贪 食	problem
+贫 血	problem
+起 病	problem
+足 病	problem
+趾 甲	problem
+趾 骨	problem
+跟 骨	problem
+身 材	problem
+转 移	problem
+软 疣	problem
+轻 型	problem
+轻 度	problem
+过 多	problem
+过 度	problem
+过 早	problem
+远 东	problem
+迪 宾	problem
+退 变	problem
+适 当	problem
+递 降	problem
+造 成	problem
+造 血	problem
+遗 传	problem
+遗 忘	problem
+部 位	problem
+部 分	problem
+酮 症	problem
+酸 尿	problem
+酸 性	problem
+里 奇	problem
+重 型	problem
+重 复	problem
+重 度	problem
+重 症	problem
+钙 化	problem
+钩 端	problem
+钱 癣	problem
+铅 性	problem
+锁 骨	problem
+闭 孔	problem
+间 日	problem
+阑 尾	problem
+阳 萎	problem
+阴 沟	problem
+阴 茎	problem
+阴 道	problem
+阻 断	problem
+附 睾	problem
+隐 性	problem
+障 碍	problem
+震 颤	problem
+霍 乱	problem
+青 年	problem
+非 洲	problem
+面 部	problem
+面 颊	problem
+鞘 脂	problem
+须 癣	problem
+颈 椎	problem
+颈 部	problem
+颌 下	problem
+颏 下	problem
+颚 口	problem
+风 疹	problem
+食 物	problem
+食 管	problem
+食 道	problem
+马 来	problem
+骨 折	problem
+骨 炎	problem
+骨 病	problem
+骨 骼	problem
+骨 髓	problem
+髂 窝	problem
+髂 腰	problem
+髓 性	problem
+髓 质	problem
+高 氯	problem
+高 脂	problem
+高 钙	problem
+高 铁	problem
+高 镁	problem
+鲍 曼	problem
+麻 疹	problem
+麻 痹	problem
+麻 风	problem
+黄 疸	problem
+黄 癣	problem
+黄 色	problem
+黑 癣	problem
+黑 色	problem
+鼠 疫	problem
+鼻 咽	problem
+鼻 炎	problem
+鼻 疽	problem
+鼻 骨	problem
+齿 龈	problem
+龈 炎	problem
+独 立 ( 原 发 ) 多 个 部 位 的 恶 性	problem
+上 肢 ( 包 括 上 肢 带 骨 ) 先 天 性	problem
+母 体 - 胎 儿 混 合 性	problem
+膀 胱 - 输 尿 管 反 流 性	problem
+卵 巢 - 输 卵 管 和 阔 韧 带 非 炎 性	problem
+补 体 1 酯 酶	problem
+核 型 4 6 X 伴 异 常 性	problem
+前 体 B 细 胞 淋 巴 母 细 胞 淋 巴 性	problem
+甲 型 H 1 N 1 流 行 性	problem
+线 状 I g A 大 疱 性	problem
+前 体 T 细 胞 淋 巴 母 细 胞 淋 巴 性	problem
+一 般 性	problem
+一 过 性	problem
+三 体 性	problem
+三 发 性	problem
+三 羧 基	problem
+上 皮 性	problem
+上 皮 瘤	problem
+上 肢 骨	problem
+上 行 性	problem
+下 丘 脑	problem
+下 肢 骨	problem
+下 颌 骨	problem
+不 伴 有	problem
+不 孕 症	problem
+不 稳 定	problem
+不 耐 受	problem
+不 适 当	problem
+与 个 性	problem
+与 女 性	problem
+丘 疹 性	problem
+丙 二 酸	problem
+丙 酮 酸	problem
+丛 集 性	problem
+丝 菌 病	problem
+丝 虫 性	problem
+丝 虫 病	problem
+中 心 性	problem
+中 枢 性	problem
+中 毒 型	problem
+中 毒 性	problem
+中 耳 炎	problem
+中 肾 性	problem
+中 肾 瘤	problem
+中 间 型	problem
+临 界 性	problem
+主 动 脉	problem
+主 要 性	problem
+义 齿 性	problem
+习 惯 性	problem
+乳 头 瘤	problem
+乳 突 炎	problem
+乳 糜 尿	problem
+乳 糜 性	problem
+乳 腺 炎	problem
+乳 腺 病	problem
+乳 酸 性	problem
+亚 临 床	problem
+亚 急 性	problem
+亢 进 症	problem
+交 感 性	problem
+交 替 性	problem
+交 界 性	problem
+交 疼 痛	problem
+交 通 性	problem
+产 伤 性	problem
+人 为 性	problem
+人 工 性	problem
+代 偿 性	problem
+代 谢 性	problem
+代 谢 病	problem
+会 厌 炎	problem
+传 导 性	problem
+传 染 性	problem
+传 染 病	problem
+传 统 性	problem
+伤 寒 性	problem
+伯 鲁 里	problem
+伴 神 经	problem
+低 张 性	problem
+低 数 量	problem
+低 碱 性	problem
+低 磷 性	problem
+低 色 素	problem
+低 蛋 白	problem
+低 血 压	problem
+低 血 糖	problem
+低 通 气	problem
+低 钾 性	problem
+体 位 性	problem
+体 质 性	problem
+佝 偻 病	problem
+佩 特 森	problem
+侵 入 性	problem
+侵 蚀 性	problem
+侵 袭 性	problem
+假 两 性	problem
+假 库 欣	problem
+偏 头 痛	problem
+偏 执 性	problem
+偏 瘤 型	problem
+儿 童 期	problem
+充 盈 性	problem
+充 血 性	problem
+先 天 性	problem
+光 线 性	problem
+克 山 病	problem
+免 疫 学	problem
+免 疫 性	problem
+全 脑 炎	problem
+全 身 性	problem
+全 面 性	problem
+共 同 性	problem
+关 节 型	problem
+关 节 炎	problem
+关 节 病	problem
+内 出 血	problem
+内 分 泌	problem
+内 斜 视	problem
+内 翻 性	problem
+冈 比 亚	problem
+再 燃 性	problem
+军 团 病	problem
+减 少 症	problem
+减 退 症	problem
+凯 萨 努	problem
+凹 陷 性	problem
+出 血 性	problem
+出 血 热	problem
+分 离 性	problem
+切 口 疝	problem
+创 伤 性	problem
+利 斯 特	problem
+刺 激 性	problem
+刻 板 性	problem
+前 列 腺	problem
+剥 脱 性	problem
+副 伤 寒	problem
+功 能 性	problem
+加 害 性	problem
+动 作 性	problem
+动 脉 瘤	problem
+劳 力 性	problem
+包 涵 体	problem
+包 绕 性	problem
+包 膜 性	problem
+包 裹 性	problem
+匐 行 性	problem
+化 学 性	problem
+化 生 性	problem
+化 疗 后	problem
+化 脓 性	problem
+区 域 性	problem
+医 源 性	problem
+医 疗 性	problem
+半 乳 糖	problem
+华 支 睾	problem
+单 一 性	problem
+单 发 性	problem
+单 形 性	problem
+单 病 灶	problem
+单 纯 性	problem
+卟 啉 病	problem
+卟 啉 症	problem
+卡 波 西	problem
+卵 巢 炎	problem
+压 力 性	problem
+厌 氧 菌	problem
+厚 皮 性	problem
+原 发 性	problem
+原 基 性	problem
+原 浆 性	problem
+原 虫 性	problem
+双 相 性	problem
+反 射 性	problem
+反 常 性	problem
+反 应 后	problem
+反 应 性	problem
+反 流 性	problem
+发 作 性	problem
+发 热 性	problem
+发 育 性	problem
+变 应 性	problem
+变 异 型	problem
+变 形 性	problem
+叠 瓦 癣	problem
+口 角 炎	problem
+口 蹄 疫	problem
+可 见 性	problem
+同 向 性	problem
+同 心 性	problem
+后 发 性	problem
+后 天 性	problem
+后 遗 症	problem
+吡 哆 醇	problem
+吸 入 性	problem
+吸 虫 病	problem
+呆 小 病	problem
+周 围 性	problem
+周 围 炎	problem
+周 期 性	problem
+味 觉 性	problem
+呼 吸 性	problem
+呼 吸 道	problem
+命 名 性	problem
+咀 嚼 肌	problem
+咽 喉 痛	problem
+咽 峡 炎	problem
+咽 恶 性	problem
+咽 良 性	problem
+品 他 病	problem
+哮 喘 性	problem
+唇 下 疳	problem
+唇 恶 性	problem
+唇 良 性	problem
+喉 恶 性	problem
+喉 结 核	problem
+喉 良 性	problem
+嗜 酸 性	problem
+嗜 银 性	problem
+器 质 性	problem
+噪 音 性	problem
+囊 内 癌	problem
+囊 性 变	problem
+囊 腺 瘤	problem
+囊 腺 癌	problem
+囊 虫 病	problem
+四 肢 瘫	problem
+回 归 热	problem
+固 定 性	problem
+地 方 性	problem
+地 霉 病	problem
+坏 死 性	problem
+坏 疽 性	problem
+坠 积 性	problem
+垂 体 性	problem
+垂 体 炎	problem
+埃 博 拉	problem
+埃 里 森	problem
+基 萨 那	problem
+基 质 性	problem
+增 多 症	problem
+增 殖 型	problem
+增 殖 性	problem
+增 生 性	problem
+增 生 症	problem
+复 发 性	problem
+复 合 体	problem
+复 合 性	problem
+复 杂 性	problem
+外 伤 性	problem
+外 因 性	problem
+外 斜 视	problem
+外 源 性	problem
+外 耳 炎	problem
+外 耳 道	problem
+外 阴 炎	problem
+多 动 性	problem
+多 发 性	problem
+多 囊 肾	problem
+多 形 性	problem
+多 毛 症	problem
+多 汗 症	problem
+多 灶 性	problem
+多 病 灶	problem
+多 肌 痛	problem
+多 脂 症	problem
+多 腺 体	problem
+多 诺 霍	problem
+多 部 位	problem
+夜 盲 症	problem
+夜 间 性	problem
+大 剂 量	problem
+大 叶 性	problem
+大 泡 性	problem
+大 疱 性	problem
+大 脑 性	problem
+天 疱 疮	problem
+失 用 性	problem
+失 神 性	problem
+失 血 性	problem
+头 颈 部	problem
+奇 异 性	problem
+奥 尔 德	problem
+奥 尼 昂	problem
+妄 想 性	problem
+姑 息 性	problem
+姿 势 性	problem
+婴 儿 性	problem
+婴 儿 期	problem
+媒 介 病	problem
+子 宫 炎	problem
+子 宫 颈	problem
+孔 源 性	problem
+孤 立 性	problem
+完 全 性	problem
+室 上 性	problem
+宫 颈 炎	problem
+家 族 性	problem
+寒 冷 性	problem
+对 称 性	problem
+寻 常 性	problem
+寻 常 疣	problem
+导 管 癌	problem
+小 梁 性	problem
+小 泡 性	problem
+小 细 胞	problem
+小 肠 炎	problem
+小 肠 疝	problem
+小 肠 病	problem
+尼 昂 热	problem
+尾 蚴 性	problem
+尿 失 禁	problem
+尿 崩 症	problem
+尿 布 性	problem
+尿 毒 症	problem
+尿 路 病	problem
+尿 道 炎	problem
+尿 酸 性	problem
+局 灶 性	problem
+局 限 性	problem
+嵌 顿 性	problem
+巨 人 症	problem
+巨 结 肠	problem
+巴 赞 病	problem
+布 兰 德	problem
+布 鲁 格	problem
+干 燥 性	problem
+干 燥 症	problem
+干 眼 症	problem
+并 发 性	problem
+并 发 症	problem
+幻 觉 症	problem
+幼 年 型	problem
+幼 年 性	problem
+幼 稚 型	problem
+广 泛 性	problem
+库 欣 病	problem
+应 力 性	problem
+应 激 性	problem
+废 用 性	problem
+延 迟 性	problem
+开 放 性	problem
+异 染 性	problem
+弓 形 虫	problem
+引 起 的	problem
+张 力 性	problem
+弥 散 性	problem
+弥 漫 性	problem
+弯 曲 菌	problem
+强 直 性	problem
+强 迫 性	problem
+征 疾 患	problem
+微 血 管	problem
+心 包 炎	problem
+心 因 性	problem
+心 源 性	problem
+心 绞 痛	problem
+心 肌 炎	problem
+心 肌 病	problem
+心 脏 病	problem
+心 血 管	problem
+念 珠 菌	problem
+急 性 病	problem
+急 进 性	problem
+性 传 播	problem
+性 早 熟	problem
+性 疾 病	problem
+性 病 性	problem
+性 肝 炎	problem
+性 贫 血	problem
+性 连 锁	problem
+恋 物 性	problem
+恐 怖 性	problem
+恙 虫 病	problem
+息 肉 病	problem
+情 绪 性	problem
+意 向 性	problem
+感 受 性	problem
+感 染 后	problem
+感 染 性	problem
+感 觉 性	problem
+戈 谢 病	problem
+戊 二 酸	problem
+戊 糖 尿	problem
+战 壕 热	problem
+戴 蒙 德	problem
+扁 平 疣	problem
+扁 桃 体	problem
+手 恶 性	problem
+手 慢 性	problem
+手 术 后	problem
+抑 制 剂	problem
+抑 郁 性	problem
+抑 郁 症	problem
+抗 促 性	problem
+拉 沙 热	problem
+拉 特 克	problem
+持 久 性	problem
+持 续 性	problem
+指 关 节	problem
+指 状 疣	problem
+指 甲 炎	problem
+挤 压 伤	problem
+挥 发 性	problem
+接 触 性	problem
+搐 搦 症	problem
+携 带 者	problem
+播 散 性	problem
+操 作 后	problem
+支 原 体	problem
+支 双 腔	problem
+支 气 管	problem
+放 射 后	problem
+放 射 性	problem
+散 发 性	problem
+斑 疹 性	problem
+斑 疹 热	problem
+斑 痣 性	problem
+斯 特 曼	problem
+斯 科 特	problem
+新 生 儿	problem
+施 密 特	problem
+无 症 状	problem
+无 菌 性	problem
+日 光 性	problem
+早 老 性	problem
+早 老 症	problem
+易 栓 症	problem
+晚 发 性	problem
+普 卢 默	problem
+暂 时 性	problem
+暴 力 性	problem
+暴 发 性	problem
+暴 露 性	problem
+曲 霉 病	problem
+有 机 酸	problem
+有 症 状	problem
+木 村 病	problem
+未 指 明	problem
+未 累 及	problem
+本 土 性	problem
+机 化 性	problem
+机 械 性	problem
+机 遇 性	problem
+松 弛 性	problem
+松 果 体	problem
+染 发 性	problem
+柯 萨 奇	problem
+栓 塞 性	problem
+核 苷 酸	problem
+核 间 性	problem
+核 黄 素	problem
+格 奥 尔	problem
+桡 肱 性	problem
+梅 毒 性	problem
+梗 阻 性	problem
+森 林 病	problem
+植 入 性	problem
+植 入 物	problem
+横 贯 性	problem
+毁 形 性	problem
+毛 囊 炎	problem
+毛 霉 病	problem
+气 球 菌	problem
+气 管 炎	problem
+氨 基 酸	problem
+水 中 毒	problem
+水 泡 性	problem
+水 疱 性	problem
+水 蛭 病	problem
+沉 着 病	problem
+沉 着 症	problem
+沉 积 症	problem
+沙 眼 性	problem
+沙 门 菌	problem
+沙 雷 菌	problem
+治 疗 性	problem
+泌 乳 素	problem
+泌 尿 道	problem
+法 布 里	problem
+泛 发 性	problem
+泪 囊 炎	problem
+泪 腺 炎	problem
+活 动 型	problem
+活 动 性	problem
+活 动 期	problem
+流 行 性	problem
+浆 液 性	problem
+浆 细 胞	problem
+浮 肿 性	problem
+浸 润 型	problem
+浸 润 性	problem
+消 化 性	problem
+消 法 尔	problem
+消 瘦 性	problem
+淀 粉 样	problem
+淋 巴 瘤	problem
+淋 巴 结	problem
+淋 球 菌	problem
+淤 积 性	problem
+淤 胆 型	problem
+淤 血 性	problem
+深 在 性	problem
+混 合 型	problem
+混 合 性	problem
+混 合 瘤	problem
+渗 出 性	problem
+游 走 脾	problem
+溃 疡 性	problem
+溶 血 性	problem
+溶 血 病	problem
+溺 水 性	problem
+滋 养 性	problem
+滑 囊 炎	problem
+滑 膜 炎	problem
+滑 膜 瘤	problem
+滤 泡 性	problem
+滴 虫 性	problem
+滴 虫 病	problem
+漏 出 性	problem
+潜 伏 性	problem
+火 焰 下	problem
+灾 难 性	problem
+炭 疽 性	problem
+烟 草 性	problem
+焦 油 性	problem
+焦 虑 性	problem
+爪 形 手	problem
+牙 周 炎	problem
+牙 源 性	problem
+牙 磨 损	problem
+牙 腐 蚀	problem
+牙 髓 炎	problem
+牙 龈 炎	problem
+牙 龈 瘤	problem
+牵 引 性	problem
+特 发 性	problem
+特 定 性	problem
+特 应 性	problem
+特 异 性	problem
+特 纳 普	problem
+狂 犬 病	problem
+狭 窄 性	problem
+狼 疮 性	problem
+猝 发 疹	problem
+猩 红 热	problem
+猪 霍 乱	problem
+猫 抓 病	problem
+球 蛋 白	problem
+球 麻 痹	problem
+瓜 氨 酸	problem
+甘 氨 酸	problem
+甘 油 酸	problem
+生 成 型	problem
+生 成 性	problem
+生 殖 器	problem
+生 殖 道	problem
+生 脓 性	problem
+甲 亢 性	problem
+甲 床 炎	problem
+甲 沟 炎	problem
+甲 状 腺	problem
+电 光 性	problem
+电 解 质	problem
+男 性 化	problem
+畸 胎 瘤	problem
+疗 病 性	problem
+疤 痕 性	problem
+疱 疹 性	problem
+疲 劳 性	problem
+疼 痛 性	problem
+病 原 体	problem
+病 原 性	problem
+病 态 性	problem
+病 毒 性	problem
+病 毒 病	problem
+病 理 性	problem
+症 状 性	problem
+痉 挛 性	problem
+痛 风 性	problem
+痰 培 养	problem
+痰 镜 检	problem
+瘢 痕 性	problem
+瘢 瘤 性	problem
+瘤 细 胞	problem
+瘰 疠 性	problem
+癌 肉 瘤	problem
+癔 病 性	problem
+癔 症 性	problem
+癫 痫 性	problem
+登 革 热	problem
+白 内 障	problem
+白 化 病	problem
+白 喉 性	problem
+白 细 胞	problem
+白 蛉 热	problem
+白 血 病	problem
+百 日 咳	problem
+的 良 性	problem
+皮 下 型	problem
+皮 肌 炎	problem
+皮 肤 型	problem
+皮 肤 病	problem
+皮 肤 癣	problem
+皮 肤 类	problem
+皮 质 醇	problem
+盆 腔 炎	problem
+直 立 性	problem
+相 关 性	problem
+真 菌 性	problem
+真 菌 病	problem
+眦 恶 性	problem
+眼 内 炎	problem
+眼 恶 性	problem
+眼 炎 性	problem
+眼 睑 疣	problem
+眼 腺 型	problem
+眼 良 性	problem
+着 色 性	problem
+睑 外 翻	problem
+睾 丸 炎	problem
+知 觉 性	problem
+短 暂 性	problem
+矮 小 症	problem
+矽 肺 性	problem
+矿 物 质	problem
+破 伤 风	problem
+破 坏 性	problem
+硫 胺 素	problem
+硬 化 性	problem
+硬 化 症	problem
+硬 斑 性	problem
+硬 癌 性	problem
+硬 皮 病	problem
+硬 结 性	problem
+硬 膜 外	problem
+碘 原 性	problem
+碘 缺 乏	problem
+碱 中 毒	problem
+磷 代 谢	problem
+磷 酸 酶	problem
+神 经 元	problem
+神 经 原	problem
+神 经 性	problem
+神 经 炎	problem
+神 经 病	problem
+神 经 症	problem
+神 经 痛	problem
+神 经 科	problem
+神 经 节	problem
+离 心 性	problem
+移 入 性	problem
+移 行 性	problem
+移 行 症	problem
+空 洞 型	problem
+穿 入 性	problem
+穿 通 性	problem
+突 发 性	problem
+突 眼 性	problem
+窒 息 性	problem
+第 二 性	problem
+第 五 病	problem
+第 六 病	problem
+筋 膜 炎	problem
+筛 窦 炎	problem
+类 丹 毒	problem
+类 库 欣	problem
+类 癌 瘤	problem
+类 麻 风	problem
+类 鼻 疽	problem
+粉 刺 癌	problem
+粒 细 胞	problem
+粘 多 糖	problem
+粘 液 性	problem
+粘 连 性	problem
+粟 粒 性	problem
+精 神 性	problem
+精 神 病	problem
+糖 尿 病	problem
+糖 异 生	problem
+糖 蛋 白	problem
+糜 烂 性	problem
+系 统 性	problem
+紧 张 性	problem
+紧 迫 性	problem
+纠 正 性	problem
+红 斑 性	problem
+红 细 胞	problem
+纤 维 化	problem
+纤 维 性	problem
+纤 维 瘤	problem
+约 翰 逊	problem
+纳 尔 逊	problem
+线 粒 体	problem
+线 虫 病	problem
+组 织 学	problem
+细 胞 学	problem
+细 胞 性	problem
+细 胞 瘤	problem
+细 菌 学	problem
+细 菌 性	problem
+经 证 实	problem
+绒 毛 性	problem
+结 晶 性	problem
+结 核 性	problem
+结 核 瘤	problem
+结 核 菌	problem
+结 石 性	problem
+结 肠 炎	problem
+结 膜 炎	problem
+结 节 性	problem
+结 节 样	problem
+结 节 病	problem
+绕 核 性	problem
+绞 窄 性	problem
+绦 虫 病	problem
+继 发 于	problem
+继 发 性	problem
+维 生 素	problem
+综 合 征	problem
+综 合 症	problem
+缄 默 症	problem
+缩 窄 性	problem
+缺 乏 性	problem
+缺 乏 病	problem
+缺 乏 症	problem
+缺 氧 性	problem
+缺 血 性	problem
+缺 钼 性	problem
+缺 铁 性	problem
+缺 铜 性	problem
+缺 锌 性	problem
+缺 陷 型	problem
+缺 陷 症	problem
+罗 西 欧	problem
+羟 化 酶	problem
+羧 化 酶	problem
+翻 译 后	problem
+老 年 性	problem
+耳 恶 性	problem
+耳 毒 性	problem
+耳 源 性	problem
+耳 蜗 性	problem
+职 业 性	problem
+聚 会 性	problem
+肉 芽 肿	problem
+肌 强 直	problem
+肌 无 力	problem
+肌 腱 炎	problem
+肌 萎 缩	problem
+肘 关 节	problem
+肘 内 翻	problem
+肘 外 翻	problem
+肝 囊 性	problem
+肝 囊 肿	problem
+肝 恶 性	problem
+肝 损 害	problem
+肝 昏 迷	problem
+肝 炎 伴	problem
+肝 炎 后	problem
+肝 炎 性	problem
+肝 破 裂	problem
+肝 硬 化	problem
+肝 硬 变	problem
+肝 脓 肿	problem
+肝 良 性	problem
+肝 衰 竭	problem
+肠 急 性	problem
+肠 恶 性	problem
+肠 慢 性	problem
+肠 杆 菌	problem
+肠 梗 阻	problem
+肠 毒 性	problem
+肠 源 性	problem
+肠 激 素	problem
+肠 炎 性	problem
+肠 病 性	problem
+肠 穿 孔	problem
+肠 系 膜	problem
+肠 结 核	problem
+肠 良 性	problem
+肠 表 现	problem
+肥 厚 性	problem
+肥 大 性	problem
+肥 大 症	problem
+肥 胖 性	problem
+肥 胖 症	problem
+肩 关 节	problem
+肩 恶 性	problem
+肩 粘 性	problem
+肺 假 性	problem
+肺 副 球	problem
+肺 动 脉	problem
+肺 孢 子	problem
+肺 恶 性	problem
+肺 梅 毒	problem
+肺 气 肿	problem
+肺 水 肿	problem
+肺 泡 性	problem
+肺 源 性	problem
+肺 炎 性	problem
+肺 破 裂	problem
+肺 纤 维	problem
+肺 结 核	problem
+肺 脓 肿	problem
+肺 良 性	problem
+肺 表 现	problem
+肾 上 腺	problem
+肾 假 性	problem
+肾 囊 肿	problem
+肾 恶 性	problem
+肾 源 性	problem
+肾 炎 性	problem
+肾 破 裂	problem
+肾 结 核	problem
+肾 结 石	problem
+肾 脓 肿	problem
+肾 良 性	problem
+肾 衰 竭	problem
+肾 髓 性	problem
+胃 恶 性	problem
+胃 扭 转	problem
+胃 泌 素	problem
+胃 溃 疡	problem
+胃 破 裂	problem
+胃 肠 炎	problem
+胃 肠 病	problem
+胃 肠 道	problem
+胃 良 性	problem
+胆 囊 炎	problem
+胆 固 醇	problem
+胆 汁 性	problem
+胆 源 性	problem
+胆 石 性	problem
+胆 管 炎	problem
+胆 红 素	problem
+背 景 性	problem
+背 部 病	problem
+胎 盘 性	problem
+胎 粪 性	problem
+胚 胎 性	problem
+胰 岛 素	problem
+胰 源 性	problem
+胰 腺 炎	problem
+胰 腺 瘤	problem
+胰 良 性	problem
+胱 氨 酸	problem
+胶 原 性	problem
+胸 大 肌	problem
+胸 源 性	problem
+胸 肌 痛	problem
+胸 腺 病	problem
+胸 腺 瘤	problem
+胸 膜 炎	problem
+胸 骨 后	problem
+胼 胝 性	problem
+脂 溢 性	problem
+脂 肪 垫	problem
+脂 肪 性	problem
+脂 肪 痢	problem
+脂 肪 瘤	problem
+脂 肪 肝	problem
+脂 肪 酸	problem
+脂 膜 炎	problem
+脂 蛋 白	problem
+脂 质 性	problem
+脂 贮 积	problem
+脉 络 膜	problem
+脊 柱 炎	problem
+脊 柱 裂	problem
+脊 椎 病	problem
+脊 膜 瘤	problem
+脊 髓 性	problem
+脊 髓 炎	problem
+脊 髓 病	problem
+脊 髓 痨	problem
+脑 假 性	problem
+脑 出 血	problem
+脑 外 伤	problem
+脑 恶 性	problem
+脑 损 伤	problem
+脑 损 害	problem
+脑 梗 死	problem
+脑 炎 性	problem
+脑 白 质	problem
+脑 积 水	problem
+脑 耗 盐	problem
+脑 脓 肿	problem
+脑 膜 性	problem
+脑 膜 炎	problem
+脑 膜 瘤	problem
+脑 良 性	problem
+脑 萎 缩	problem
+脑 血 管	problem
+脑 软 化	problem
+脓 毒 性	problem
+脓 毒 症	problem
+脓 疱 性	problem
+脓 疱 病	problem
+脓 皮 病	problem
+脓 皮 症	problem
+脓 肿 性	problem
+脚 气 病	problem
+脱 发 性	problem
+脱 垂 性	problem
+脱 屑 性	problem
+脱 水 性	problem
+脱 髓 鞘	problem
+脾 假 性	problem
+脾 功 能	problem
+脾 恶 性	problem
+脾 炎 性	problem
+脾 破 裂	problem
+脾 缺 失	problem
+脾 良 性	problem
+脾 萎 缩	problem
+脾 静 脉	problem
+腋 恶 性	problem
+腔 隙 性	problem
+腕 关 节	problem
+腕 慢 性	problem
+腭 恶 性	problem
+腭 良 性	problem
+腮 腺 炎	problem
+腱 鞘 炎	problem
+腹 股 沟	problem
+腹 膜 炎	problem
+腺 病 毒	problem
+膀 胱 炎	problem
+膈 破 裂	problem
+膝 关 节	problem
+膝 内 翻	problem
+膝 外 翻	problem
+自 主 性	problem
+自 发 性	problem
+致 命 性	problem
+致 密 性	problem
+致 死 性	problem
+舌 恶 性	problem
+舌 炎 性	problem
+舌 良 性	problem
+舞 蹈 病	problem
+色 素 性	problem
+艾 滋 病	problem
+花 斑 癣	problem
+苯 丙 酮	problem
+苯 毒 性	problem
+范 科 尼	problem
+草 酸 尿	problem
+草 酸 盐	problem
+荨 麻 疹	problem
+药 源 性	problem
+药 物 性	problem
+莱 姆 病	problem
+获 得 性	problem
+菌 血 症	problem
+萎 缩 性	problem
+营 养 性	problem
+葡 萄 糖	problem
+葡 萄 胎	problem
+葡 萄 膜	problem
+蔓 延 性	problem
+虱 媒 介	problem
+蚀 疮 性	problem
+蚊 媒 介	problem
+蚕 蚀 性	problem
+蚕 豆 病	problem
+蛋 白 尿	problem
+蛋 白 质	problem
+蛔 虫 性	problem
+蛔 虫 病	problem
+蛔 蚴 性	problem
+蛲 虫 病	problem
+蜂 窝 织	problem
+蜱 媒 介	problem
+蝶 窦 炎	problem
+融 合 性	problem
+螺 菌 病	problem
+蠕 虫 病	problem
+血 友 病	problem
+血 吸 虫	problem
+血 容 量	problem
+血 小 板	problem
+血 栓 性	problem
+血 气 胸	problem
+血 液 学	problem
+血 清 型	problem
+血 清 性	problem
+血 源 性	problem
+血 管 性	problem
+血 管 炎	problem
+血 管 瘤	problem
+血 色 病	problem
+行 军 性	problem
+衣 原 体	problem
+表 达 性	problem
+被 动 性	problem
+裂 谷 热	problem
+褐 黄 病	problem
+视 神 经	problem
+视 网 膜	problem
+视 觉 性	problem
+角 化 性	problem
+角 化 病	problem
+角 膜 炎	problem
+解 剖 性	problem
+诊 断 性	problem
+调 节 性	problem
+豆 状 核	problem
+象 皮 病	problem
+败 血 症	problem
+贫 血 性	problem
+贮 积 症	problem
+赖 氨 酸	problem
+足 恶 性	problem
+足 畸 形	problem
+足 菌 肿	problem
+足 骨 折	problem
+趾 关 节	problem
+趾 甲 炎	problem
+踇 内 翻	problem
+踇 外 翻	problem
+踝 关 节	problem
+转 移 性	problem
+软 下 疳	problem
+输 卵 管	problem
+输 尿 管	problem
+输 精 管	problem
+输 血 后	problem
+边 缘 性	problem
+迁 延 型	problem
+迁 延 性	problem
+过 多 症	problem
+过 少 症	problem
+过 敏 性	problem
+过 渡 性	problem
+运 动 性	problem
+还 原 酶	problem
+进 行 性	problem
+远 达 性	problem
+连 续 性	problem
+迟 发 性	problem
+退 行 性	problem
+逆 行 性	problem
+选 择 性	problem
+遗 传 性	problem
+遗 粪 症	problem
+部 位 性	problem
+部 分 性	problem
+酒 精 性	problem
+酪 氨 酸	problem
+酶 缺 乏	problem
+酸 中 毒	problem
+醇 毒 性	problem
+醛 固 酮	problem
+醛 酸 酶	problem
+里 德 尔	problem
+重 叠 型	problem
+野 病 毒	problem
+金 黄 色	problem
+钙 代 谢	problem
+钙 化 性	problem
+钩 虫 病	problem
+银 屑 病	problem
+链 球 菌	problem
+锁 骨 下	problem
+锤 状 趾	problem
+锥 虫 病	problem
+镁 代 谢	problem
+门 克 斯	problem
+门 脉 性	problem
+闪 辉 性	problem
+闭 合 性	problem
+闭 塞 性	problem
+闭 孔 疝	problem
+间 变 性	problem
+间 叶 瘤	problem
+间 歇 型	problem
+间 歇 性	problem
+间 皮 瘤	problem
+间 质 性	problem
+阑 尾 炎	problem
+阴 囊 瘘	problem
+阴 道 炎	problem
+阵 发 性	problem
+阵 挛 性	problem
+阻 塞 性	problem
+阿 米 巴	problem
+阿 罗 氏	problem
+附 睾 炎	problem
+陈 旧 性	problem
+降 钙 素	problem
+隐 匿 性	problem
+隐 源 性	problem
+隐 球 菌	problem
+难 免 性	problem
+难 复 性	problem
+难 治 性	problem
+雄 激 素	problem
+雅 司 病	problem
+雅 各 布	problem
+雌 激 素	problem
+震 吓 性	problem
+霍 法 病	problem
+青 光 眼	problem
+青 春 期	problem
+青 霉 病	problem
+静 脉 性	problem
+静 脉 炎	problem
+非 典 型	problem
+非 恶 性	problem
+非 毒 性	problem
+非 瘤 性	problem
+非 结 核	problem
+鞭 虫 病	problem
+韦 尼 克	problem
+顶 泌 性	problem
+顺 行 性	problem
+顽 固 性	problem
+顿 挫 性	problem
+预 防 性	problem
+颊 恶 性	problem
+颌 下 腺	problem
+颌 炎 性	problem
+额 窦 炎	problem
+风 湿 性	problem
+风 湿 病	problem
+食 管 炎	problem
+饥 饿 性	problem
+饮 食 性	problem
+马 丘 波	problem
+马 型 热	problem
+马 尔 堡	problem
+马 耳 他	problem
+马 脑 炎	problem
+骨 化 性	problem
+骨 坏 死	problem
+骨 恶 性	problem
+骨 结 核	problem
+骨 肉 瘤	problem
+骨 软 化	problem
+骨 软 骨	problem
+骨 髓 炎	problem
+骨 髓 瘤	problem
+骶 恶 性	problem
+骶 良 性	problem
+髋 关 节	problem
+髋 恶 性	problem
+髋 良 性	problem
+髓 样 癌	problem
+高 乳 酸	problem
+高 原 性	problem
+高 尿 酸	problem
+高 张 性	problem
+高 肝 素	problem
+高 蛋 白	problem
+高 血 压	problem
+高 血 糖	problem
+高 身 材	problem
+鱼 鳞 病	problem
+鸟 氨 酸	problem
+鹦 鹉 热	problem
+麻 痹 性	problem
+黄 热 病	problem
+黄 疸 型	problem
+黄 瘤 病	problem
+黄 色 瘤	problem
+黑 变 病	problem
+黑 水 热	problem
+鼓 膜 炎	problem
+鼠 咬 热	problem
+鼻 中 隔	problem
+鼻 咽 炎	problem
+鼻 恶 性	problem
+鼻 畸 形	problem
+鼻 窦 炎	problem
+鼻 结 核	problem
+龈 口 炎	problem
+龟 头 炎	problem
+葡 萄 糖 - 6 - 磷 酸 脱 氢 酶 缺 乏 性	problem
+新 生 儿 A B O 溶 血 性	problem
+维 生 素 A 缺 乏 病 伴 角 膜 干 眼 性	problem
+维 生 素 B 1 2	problem
+维 生 素 B 1 2 缺 乏 性	problem
+维 生 素 B 1 2 吸 收 不 良 性	problem
+维 生 素 B 1 2 、 叶 酸 和 抗 巨 幼 细 胞 性	problem
+维 生 素 C 缺 乏 性	problem
+维 生 素 D 缺 乏 性	problem
+维 生 素 K	problem
+丁 型 肝 炎	problem
+上 肢 假 性	problem
+上 肢 急 性	problem
+上 肢 恶 性	problem
+上 肢 损 伤	problem
+上 肢 良 性	problem
+上 腭 炎 性	problem
+上 臂 恶 性	problem
+上 颌 窦 炎	problem
+下 咽 恶 性	problem
+下 肢 假 性	problem
+下 肢 恶 性	problem
+下 肢 畸 形	problem
+下 肢 良 性	problem
+下 肢 骨 折	problem
+下 颌 炎 性	problem
+不 全 脱 位	problem
+不 动 杆 菌	problem
+不 完 全 性	problem
+不 稳 定 性	problem
+不 耐 受 症	problem
+与 遗 传 性	problem
+丘 脑 恶 性	problem
+丘 脑 良 性	problem
+丝 虫 病 性	problem
+严 重 急 性	problem
+中 枢 神 经	problem
+中 海 贫 血	problem
+中 耳 恶 性	problem
+中 耳 良 性	problem
+中 胚 层 性	problem
+中 脑 恶 性	problem
+中 间 界 线	problem
+为 细 菌 性	problem
+为 过 敏 性	problem
+主 动 脉 炎	problem
+主 动 脉 瓣	problem
+主 要 为 性	problem
+乙 型 肝 炎	problem
+乙 醇 毒 性	problem
+乳 头 恶 性	problem
+乳 头 状 癌	problem
+乳 房 恶 性	problem
+乳 房 炎 性	problem
+乳 晕 恶 性	problem
+乳 突 恶 性	problem
+乳 糖 缺 乏	problem
+乳 糜 微 粒	problem
+乳 腺 囊 性	problem
+乳 腺 恶 性	problem
+乳 腺 炎 性	problem
+乳 腺 良 性	problem
+交 界 恶 性	problem
+产 后 出 血	problem
+产 后 急 性	problem
+产 粘 液 性	problem
+亨 特 舌 炎	problem
+人 格 改 变	problem
+代 谢 紊 乱	problem
+代 谢 障 碍	problem
+会 厌 恶 性	problem
+会 厌 炎 性	problem
+会 厌 结 核	problem
+会 厌 良 性	problem
+会 阴 损 伤	problem
+会 阴 炎 性	problem
+会 阴 血 肿	problem
+会 阴 裂 伤	problem
+传 播 疾 病	problem
+低 胰 岛 素	problem
+低 色 素 性	problem
+低 血 糖 性	problem
+低 血 糖 症	problem
+低 醛 固 酮	problem
+低 钠 血 症	problem
+低 钾 血 症	problem
+低 顺 应 性	problem
+体 液 过 多	problem
+依 恋 障 碍	problem
+依 赖 因 子	problem
+促 性 腺 激	problem
+假 粘 液 性	problem
+假 肉 瘤 性	problem
+假 血 友 病	problem
+偏 好 障 碍	problem
+健 康 查 体	problem
+儿 童 良 性	problem
+光 接 触 性	problem
+克 里 米 亚	problem
+免 疫 机 制	problem
+免 疫 缺 陷	problem
+免 疫 调 节	problem
+全 腺 泡 性	problem
+全 血 细 胞	problem
+全 骨 髓 病	problem
+全 鼻 窦 炎	problem
+共 济 失 调	problem
+关 节 骨 性	problem
+关 闭 不 全	problem
+内 耳 恶 性	problem
+内 耳 良 性	problem
+内 鼻 恶 性	problem
+再 生 不 良	problem
+再 生 障 碍	problem
+冲 击 波 性	problem
+冷 球 蛋 白	problem
+凝 血 因 子	problem
+凝 血 时 间	problem
+凝 血 缺 陷	problem
+凝 血 酶 元	problem
+凝 血 酶 原	problem
+凝 血 障 碍	problem
+出 血 倾 向	problem
+分 枝 杆 菌	problem
+分 泌 过 多	problem
+分 泌 过 度	problem
+利 什 曼 病	problem
+利 斯 特 菌	problem
+前 列 腺 炎	problem
+前 臂 恶 性	problem
+前 臂 骨 折	problem
+前 额 畸 形	problem
+副 圆 线 虫	problem
+副 溶 血 性	problem
+副 百 日 咳	problem
+副 肿 瘤 性	problem
+副 腺 脓 肿	problem
+功 能 亢 进	problem
+功 能 减 退	problem
+功 能 紊 乱	problem
+功 能 衰 竭	problem
+功 能 障 碍	problem
+动 物 源 性	problem
+动 静 脉 瘘	problem
+包 皮 恶 性	problem
+十 二 指 肠	problem
+半 胱 氨 酸	problem
+单 核 细 胞	problem
+单 眼 盲 ，	problem
+单 纯 疱 疹	problem
+卵 巢 功 能	problem
+卵 巢 恶 性	problem
+卵 巢 良 性	problem
+原 因 女 性	problem
+原 始 极 性	problem
+发 结 节 病	problem
+发 育 不 全	problem
+发 育 不 良	problem
+发 育 迟 缓	problem
+发 育 障 碍	problem
+变 形 杆 菌	problem
+口 先 天 性	problem
+口 咽 恶 性	problem
+口 咽 良 性	problem
+口 底 恶 性	problem
+口 底 炎 性	problem
+口 底 良 性	problem
+口 腔 恶 性	problem
+口 腔 炎 性	problem
+口 腔 良 性	problem
+可 疑 恶 性	problem
+吉 尔 伯 特	problem
+吞 咽 困 难	problem
+听 觉 丧 失	problem
+吸 虫 感 染	problem
+呼 吸 衰 竭	problem
+咽 先 天 性	problem
+咽 化 学 性	problem
+咽 喉 恶 性	problem
+咽 结 膜 炎	problem
+咽 结 膜 热	problem
+品 行 障 碍	problem
+哈 钦 森 牙	problem
+唇 先 天 性	problem
+喉 先 天 性	problem
+喉 化 学 性	problem
+喉 气 管 炎	problem
+嗅 球 恶 性	problem
+嗅 觉 缺 失	problem
+嗜 血 杆 菌	problem
+嗜 酸 细 胞	problem
+器 官 衰 竭	problem
+噬 血 细 胞	problem
+囊 尾 蚴 病	problem
+四 肢 瘫 痪	problem
+回 肠 恶 性	problem
+回 肠 破 裂	problem
+回 肠 良 性	problem
+圆 线 虫 病	problem
+土 啦 菌 病	problem
+土 拉 菌 病	problem
+圣 路 易 斯	problem
+地 中 海 热	problem
+坐 骨 良 性	problem
+垂 体 前 叶	problem
+垂 体 恶 性	problem
+垂 体 缺 失	problem
+垂 体 良 性	problem
+埃 尔 托 型	problem
+声 带 恶 性	problem
+声 带 结 核	problem
+声 带 良 性	problem
+声 门 恶 性	problem
+声 门 良 性	problem
+外 分 泌 性	problem
+外 唇 恶 性	problem
+外 耳 畸 形	problem
+外 耳 道 炎	problem
+外 阴 假 性	problem
+外 阴 恶 性	problem
+外 阴 炎 性	problem
+外 阴 良 性	problem
+外 阴 血 肿	problem
+多 中 心 性	problem
+多 囊 卵 巢	problem
+多 形 红 斑	problem
+多 浆 膜 炎	problem
+多 病 灶 性	problem
+多 神 经 炎	problem
+多 神 经 病	problem
+多 种 营 养	problem
+多 结 节 性	problem
+多 软 骨 炎	problem
+大 结 节 性	problem
+大 肠 恶 性	problem
+大 肠 杆 菌	problem
+大 肠 良 性	problem
+大 脑 恶 性	problem
+大 脑 良 性	problem
+大 腿 恶 性	problem
+大 腿 损 伤	problem
+头 后 天 性	problem
+头 皮 恶 性	problem
+头 皮 良 性	problem
+头 部 恶 性	problem
+头 部 损 伤	problem
+头 部 良 性	problem
+奥 罗 普 什	problem
+委 内 瑞 拉	problem
+姜 片 虫 病	problem
+婴 儿 惊 厥	problem
+子 宫 内 膜	problem
+子 宫 恶 性	problem
+子 宫 炎 性	problem
+子 宫 破 裂	problem
+子 宫 良 性	problem
+孢 子 菌 病	problem
+孢 子 虫 病	problem
+宫 缩 乏 力	problem
+宫 颈 恶 性	problem
+宫 颈 炎 性	problem
+宫 颈 良 性	problem
+宫 颈 裂 伤	problem
+寄 生 虫 学	problem
+寄 生 虫 性	problem
+寄 生 虫 病	problem
+小 肠 恶 性	problem
+小 肠 破 裂	problem
+小 肠 结 肠	problem
+小 肠 良 性	problem
+小 脑 出 血	problem
+小 脑 变 性	problem
+小 脑 恶 性	problem
+小 脑 良 性	problem
+小 脓 疱 性	problem
+小 腿 恶 性	problem
+小 腿 骨 折	problem
+少 关 节 性	problem
+尖 锐 湿 疣	problem
+尺 骨 恶 性	problem
+尺 骨 良 性	problem
+尺 骨 骨 折	problem
+尾 骨 恶 性	problem
+尾 骨 良 性	problem
+尾 骨 骨 折	problem
+尿 毒 症 性	problem
+尿 道 口 炎	problem
+尿 道 恶 性	problem
+尿 道 膨 出	problem
+尿 道 良 性	problem
+屎 肠 球 菌	problem
+岛 叶 良 性	problem
+巨 幼 细 胞	problem
+巨 滤 泡 性	problem
+巨 细 胞 性	problem
+己 糖 激 酶	problem
+巴 斯 德 菌	problem
+巴 贝 虫 病	problem
+布 伦 纳 瘤	problem
+布 拉 克 凡	problem
+布 氏 菌 病	problem
+布 里 尔 病	problem
+带 状 疱 疹	problem
+幕 上 恶 性	problem
+幕 下 恶 性	problem
+平 滑 肌 瘤	problem
+幽 门 恶 性	problem
+幽 门 狭 窄	problem
+库 利 贫 血	problem
+庚 型 肝 炎	problem
+延 髓 恶 性	problem
+异 位 妊 娠	problem
+弓 形 体 病	problem
+弓 形 虫 病	problem
+张 力 失 常	problem
+微 小 囊 性	problem
+微 滤 泡 性	problem
+心 内 膜 炎	problem
+心 动 过 速	problem
+心 包 恶 性	problem
+心 包 积 液	problem
+心 包 积 血	problem
+心 包 良 性	problem
+心 室 良 性	problem
+心 房 恶 性	problem
+心 房 良 性	problem
+心 肌 梗 死	problem
+心 肌 缺 血	problem
+心 肌 良 性	problem
+心 脏 恶 性	problem
+心 脏 良 性	problem
+心 血 管 性	problem
+念 珠 菌 性	problem
+念 珠 菌 病	problem
+恶 性 肿 瘤	problem
+意 识 障 碍	problem
+扁 平 苔 癣	problem
+扁 桃 体 炎	problem
+手 先 天 性	problem
+手 坏 死 性	problem
+手 感 染 性	problem
+手 结 节 性	problem
+手 足 口 病	problem
+手 部 恶 性	problem
+抑 郁 障 碍	problem
+抗 体 缺 陷	problem
+抗 凝 血 酶	problem
+抗 坏 血 酸	problem
+抗 肿 瘤 性	problem
+指 骨 恶 性	problem
+指 骨 良 性	problem
+指 骨 骨 折	problem
+换 气 不 足	problem
+掌 骨 恶 性	problem
+掌 骨 良 性	problem
+掌 骨 骨 折	problem
+接 合 菌 病	problem
+支 气 管 炎	problem
+放 线 菌 病	problem
+放 线 菌 瘤	problem
+斑 疹 伤 寒	problem
+新 月 体 性	problem
+旋 毛 虫 病	problem
+无 症 状 性	problem
+无 肌 病 性	problem
+无 色 素 性	problem
+无 黄 疸 型	problem
+晚 期 梅 毒	problem
+晶 状 体 性	problem
+曲 霉 菌 性	problem
+月 经 稀 少	problem
+有 关 组 织	problem
+有 症 状 性	problem
+朊 蛋 白 病	problem
+未 全 身 性	problem
+机 能 不 全	problem
+机 能 减 退	problem
+杜 波 依 西	problem
+松 果 体 区	problem
+极 度 肥 胖	problem
+枕 叶 恶 性	problem
+枕 叶 良 性	problem
+枕 骨 恶 性	problem
+枕 骨 良 性	problem
+枯 草 杆 菌	problem
+查 加 斯 病	problem
+树 胶 样 肿	problem
+根 尖 周 炎	problem
+根 脊 髓 炎	problem
+桡 骨 恶 性	problem
+桡 骨 良 性	problem
+桡 骨 骨 折	problem
+棘 球 蚴 病	problem
+植 物 神 经	problem
+椎 管 骨 性	problem
+残 胃 恶 性	problem
+母 细 胞 性	problem
+母 细 胞 瘤	problem
+毛 发 缺 失	problem
+毛 细 胞 性	problem
+毛 细 血 管	problem
+毛 霉 菌 病	problem
+气 管 恶 性	problem
+气 管 良 性	problem
+氯 仿 毒 性	problem
+氯 气 毒 性	problem
+水 疱 样 疹	problem
+水 疱 皮 炎	problem
+汗 坦 病 毒	problem
+汗 腺 恶 性	problem
+汞 中 毒 性	problem
+沃 尔 曼 病	problem
+沙 粒 体 性	problem
+泌 尿 系 统	problem
+泪 囊 恶 性	problem
+泪 囊 良 性	problem
+泪 小 管 炎	problem
+泪 管 良 性	problem
+泪 腺 恶 性	problem
+泪 腺 炎 性	problem
+泪 腺 良 性	problem
+泪 道 急 性	problem
+泪 道 慢 性	problem
+津 巴 布 韦	problem
+浅 静 脉 炎	problem
+浆 细 胞 性	problem
+消 化 系 统	problem
+涎 腺 恶 性	problem
+涎 腺 良 性	problem
+淀 粉 样 变	problem
+淋 巴 水 肿	problem
+淋 巴 瘤 性	problem
+淋 巴 管 炎	problem
+淋 巴 管 瘤	problem
+淋 巴 组 织	problem
+淋 巴 细 胞	problem
+淋 巴 结 炎	problem
+淋 巴 结 病	problem
+淋 巴 肉 瘤	problem
+淋 巴 造 血	problem
+淋 球 菌 性	problem
+溃 疡 腺 型	problem
+溶 酶 体 酶	problem
+潜 在 恶 性	problem
+澳 大 利 亚	problem
+烟 草 急 性	problem
+焦 虑 障 碍	problem
+片 吸 虫 病	problem
+牙 槽 良 性	problem
+牙 槽 隐 性	problem
+牙 齿 缺 失	problem
+牙 龈 恶 性	problem
+物 质 影 响	problem
+物 质 毒 性	problem
+特 指 部 位	problem
+猪 链 球 菌	problem
+环 形 红 斑	problem
+球 后 良 性	problem
+甘 油 三 酯	problem
+生 成 不 良	problem
+生 殖 无 能	problem
+生 殖 系 统	problem
+生 殖 道 瘘	problem
+生 长 因 子	problem
+生 长 激 素	problem
+用 腐 蚀 性	problem
+甲 氧 西 林	problem
+甲 状 旁 腺	problem
+甲 状 腺 炎	problem
+甲 状 腺 肿	problem
+甲 醇 毒 性	problem
+甲 醛 毒 性	problem
+病 毒 性 疣	problem
+病 毒 感 染	problem
+症 状 躁 狂	problem
+白 血 病 性	problem
+白 血 病 样	problem
+白 质 脑 病	problem
+的 先 天 性	problem
+皮 下 组 织	problem
+皮 克 病 性	problem
+皮 真 菌 病	problem
+皮 肌 炎 性	problem
+皮 肤 恶 性	problem
+皮 肤 慢 性	problem
+皮 肤 损 害	problem
+皮 肤 改 变	problem
+皮 肤 良 性	problem
+皮 肤 萎 缩	problem
+皮 质 功 能	problem
+皮 质 增 生	problem
+皮 质 机 能	problem
+皮 质 激 素	problem
+盆 腔 恶 性	problem
+盆 腔 炎 性	problem
+盆 腔 脓 肿	problem
+盆 腔 良 性	problem
+盆 腔 血 肿	problem
+盆 骨 恶 性	problem
+盆 骨 良 性	problem
+盲 肠 恶 性	problem
+盲 肠 良 性	problem
+直 肠 恶 性	problem
+直 肠 破 裂	problem
+直 肠 良 性	problem
+眉 弓 恶 性	problem
+眉 部 良 性	problem
+真 菌 感 染	problem
+眶 内 恶 性	problem
+眶 内 良 性	problem
+眶 骨 恶 性	problem
+眶 骨 良 性	problem
+眼 先 天 性	problem
+眼 球 恶 性	problem
+眼 球 碱 性	problem
+眼 球 良 性	problem
+眼 球 酸 性	problem
+眼 眶 急 性	problem
+眼 眶 恶 性	problem
+眼 眶 炎 性	problem
+眼 睑 异 物	problem
+眼 睑 恶 性	problem
+眼 睑 炎 性	problem
+眼 肌 麻 痹	problem
+眼 色 素 层	problem
+睡 眠 障 碍	problem
+睾 丸 恶 性	problem
+睾 丸 良 性	problem
+短 肢 身 材	problem
+砷 过 敏 性	problem
+硫 酸 酯 酶	problem
+硬 皮 病 性	problem
+硬 腭 恶 性	problem
+磷 酸 化 酶	problem
+神 经 束 瘤	problem
+神 经 根 炎	problem
+神 经 梅 毒	problem
+神 经 源 性	problem
+神 经 病 变	problem
+神 经 病 型	problem
+神 经 病 性	problem
+神 经 症 性	problem
+神 经 系 统	problem
+神 经 鞘 瘤	problem
+科 罗 拉 多	problem
+空 气 栓 塞	problem
+空 泡 病 毒	problem
+空 肠 恶 性	problem
+空 肠 破 裂	problem
+空 肠 良 性	problem
+窦 曲 菌 病	problem
+立 克 次 体	problem
+童 年 期 性	problem
+第 二 性 征	problem
+筛 窦 恶 性	problem
+筛 骨 恶 性	problem
+筛 骨 良 性	problem
+类 固 醇 性	problem
+类 型 急 性	problem
+类 天 疱 疮	problem
+类 白 血 病	problem
+类 酵 母 菌	problem
+类 风 湿 性	problem
+粘 液 脓 性	problem
+粘 球 杆 菌	problem
+粘 膜 损 害	problem
+粘 蛋 白 性	problem
+粪 卟 啉 病	problem
+精 囊 恶 性	problem
+精 囊 炎 性	problem
+精 囊 良 性	problem
+精 神 活 性	problem
+精 神 源 性	problem
+精 神 障 碍	problem
+精 索 恶 性	problem
+精 索 良 性	problem
+糖 尿 病 足	problem
+糖 胺 聚 糖	problem
+红 斑 狼 疮	problem
+红 皮 病 性	problem
+纤 维 囊 性	problem
+纤 维 瘤 病	problem
+纤 维 肉 瘤	problem
+纯 红 细 胞	problem
+纳 归 虫 病	problem
+纵 膈 恶 性	problem
+纵 隔 恶 性	problem
+纵 隔 炎 性	problem
+纵 隔 良 性	problem
+组 织 细 胞	problem
+绒 毛 腺 性	problem
+绒 毛 膜 癌	problem
+结 核 样 型	problem
+结 缔 组 织	problem
+结 肠 恶 性	problem
+结 肠 炎 性	problem
+结 肠 破 裂	problem
+结 肠 良 性	problem
+结 膜 恶 性	problem
+结 膜 良 性	problem
+结 膜 酸 性	problem
+结 节 疹 性	problem
+绦 虫 感 染	problem
+绿 脓 杆 菌	problem
+网 状 组 织	problem
+网 状 细 胞	problem
+网 膜 恶 性	problem
+网 膜 良 性	problem
+罗 斯 河 病	problem
+羟 赖 氨 酸	problem
+耳 先 天 性	problem
+耳 创 伤 性	problem
+耳 化 学 性	problem
+耳 廓 假 性	problem
+耻 骨 恶 性	problem
+耻 骨 良 性	problem
+耻 骨 骨 折	problem
+肉 芽 肿 性	problem
+肉 芽 肿 病	problem
+肋 骨 恶 性	problem
+肋 骨 良 性	problem
+肋 骨 骨 折	problem
+肌 上 皮 性	problem
+肌 强 直 性	problem
+肌 肉 损 伤	problem
+肌 肉 萎 缩	problem
+肌 腱 损 伤	problem
+肘 部 恶 性	problem
+肛 周 恶 性	problem
+肛 周 皮 肤	problem
+肛 管 恶 性	problem
+肛 管 炎 性	problem
+肛 管 良 性	problem
+肛 门 恶 性	problem
+肛 门 良 性	problem
+肝 先 天 性	problem
+肝 占 位 性	problem
+肝 旁 炎 性	problem
+肝 管 恶 性	problem
+肝 纤 维 化	problem
+肝 细 胞 性	problem
+肝 细 胞 癌	problem
+肝 结 节 性	problem
+肝 肺 脓 肿	problem
+肝 脏 疾 病	problem
+肠 侵 袭 性	problem
+肠 先 天 性	problem
+肠 出 血 性	problem
+肠 病 毒 性	problem
+肠 粘 连 性	problem
+肠 道 恶 性	problem
+肠 道 感 染	problem
+肠 道 疾 病	problem
+股 骨 恶 性	problem
+股 骨 良 性	problem
+股 骨 骨 折	problem
+肢 体 恶 性	problem
+肢 端 皮 炎	problem
+肩 部 恶 性	problem
+肩 钙 化 性	problem
+肱 骨 恶 性	problem
+肱 骨 良 性	problem
+肱 骨 骨 折	problem
+肺 占 位 性	problem
+肺 曲 霉 病	problem
+肺 炎 杆 菌	problem
+肺 炎 球 菌	problem
+肺 纤 维 化	problem
+肺 结 核 瘤	problem
+肺 门 恶 性	problem
+肾 上 腺 性	problem
+肾 占 位 性	problem
+肾 后 天 性	problem
+肾 周 恶 性	problem
+肾 盂 恶 性	problem
+肾 盂 积 水	problem
+肾 盂 肾 炎	problem
+肾 盂 良 性	problem
+肾 盏 恶 性	problem
+肾 血 管 性	problem
+肿 瘤 观 察	problem
+胃 体 恶 性	problem
+胃 先 天 性	problem
+胃 化 学 性	problem
+胃 占 位 性	problem
+胃 底 恶 性	problem
+胃 泌 素 瘤	problem
+胃 窦 恶 性	problem
+胆 囊 恶 性	problem
+胆 硷 能 性	problem
+胆 管 恶 性	problem
+胆 道 恶 性	problem
+背 部 恶 性	problem
+背 部 良 性	problem
+胎 儿 失 血	problem
+胎 盘 良 性	problem
+胎 膜 良 性	problem
+胞 浆 菌 病	problem
+胡 萝 卜 素	problem
+胫 骨 恶 性	problem
+胫 骨 良 性	problem
+胫 骨 骨 折	problem
+胰 体 恶 性	problem
+胰 头 恶 性	problem
+胰 尾 恶 性	problem
+胰 岛 恶 性	problem
+胰 岛 素 瘤	problem
+胰 岛 良 性	problem
+胰 管 恶 性	problem
+胰 腺 囊 性	problem
+胰 腺 恶 性	problem
+胰 颈 恶 性	problem
+胰 高 糖 素	problem
+胶 性 结 节	problem
+胸 先 天 性	problem
+胸 内 恶 性	problem
+胸 壁 恶 性	problem
+胸 椎 恶 性	problem
+胸 椎 骨 折	problem
+胸 腔 积 液	problem
+胸 腔 良 性	problem
+胸 腺 恶 性	problem
+胸 腺 缺 失	problem
+胸 腺 良 性	problem
+胸 膜 恶 性	problem
+胸 膜 良 性	problem
+胸 部 恶 性	problem
+胸 骨 恶 性	problem
+胸 骨 良 性	problem
+脂 肪 堆 积	problem
+脂 肪 增 生	problem
+脂 肪 栓 塞	problem
+脂 肪 肉 瘤	problem
+脂 肪 脱 垂	problem
+脊 柱 侧 凸	problem
+脊 柱 侧 弯	problem
+脊 柱 前 凸	problem
+脊 柱 后 凸	problem
+脊 柱 恶 性	problem
+脊 柱 良 性	problem
+脊 柱 骨 折	problem
+脊 椎 前 移	problem
+脊 椎 源 性	problem
+脊 膜 恶 性	problem
+脊 膜 良 性	problem
+脊 髓 恶 性	problem
+脊 髓 病 性	problem
+脊 髓 良 性	problem
+脑 先 天 性	problem
+脑 室 恶 性	problem
+脑 干 出 血	problem
+脑 干 恶 性	problem
+脑 干 良 性	problem
+脑 桥 恶 性	problem
+脑 桥 良 性	problem
+脑 肉 芽 肿	problem
+脑 脊 髓 炎	problem
+脑 膜 恶 性	problem
+脑 膜 炎 型	problem
+脑 膜 脑 炎	problem
+脑 血 管 病	problem
+脓 毒 血 症	problem
+脱 髓 鞘 性	problem
+脾 先 天 性	problem
+腓 骨 恶 性	problem
+腓 骨 良 性	problem
+腓 骨 骨 折	problem
+腕 部 恶 性	problem
+腕 骨 恶 性	problem
+腕 骨 良 性	problem
+腕 骨 骨 折	problem
+腘 窝 恶 性	problem
+腘 部 恶 性	problem
+腭 先 天 性	problem
+腭 部 炎 性	problem
+腮 腺 恶 性	problem
+腮 腺 炎 性	problem
+腮 腺 良 性	problem
+腰 椎 恶 性	problem
+腰 椎 骨 折	problem
+腹 壁 恶 性	problem
+腹 股 沟 疝	problem
+腹 腔 恶 性	problem
+腹 腔 良 性	problem
+腹 膜 恶 性	problem
+腹 膜 感 染	problem
+腹 膜 良 性	problem
+腹 部 恶 性	problem
+腺 样 囊 性	problem
+腺 病 毒 性	problem
+腺 纤 维 瘤	problem
+膀 胱 恶 性	problem
+膀 胱 破 裂	problem
+膀 胱 良 性	problem
+膈 先 天 性	problem
+膜 增 殖 性	problem
+膝 先 天 性	problem
+膝 关 节 病	problem
+膝 部 恶 性	problem
+臀 部 恶 性	problem
+臀 部 良 性	problem
+舌 下 腺 炎	problem
+舌 先 天 性	problem
+舌 尖 恶 性	problem
+舌 根 恶 性	problem
+舌 缘 恶 性	problem
+节 旁 体 瘤	problem
+节 肢 动 物	problem
+芽 生 菌 性	problem
+芽 生 菌 病	problem
+苯 丙 氨 酸	problem
+荚 膜 组 织	problem
+荨 麻 疹 性	problem
+营 养 不 良	problem
+营 养 元 素	problem
+葡 萄 球 菌	problem
+葡 萄 膜 炎	problem
+虐 待 有 关	problem
+虹 膜 良 性	problem
+蛋 白 缺 乏	problem
+蝶 窦 恶 性	problem
+蝶 骨 恶 性	problem
+蝶 骨 良 性	problem
+螺 旋 体 病	problem
+螺 旋 杆 菌	problem
+血 友 病 性	problem
+血 吸 虫 性	problem
+血 吸 虫 病	problem
+血 栓 形 成	problem
+血 清 碱 性	problem
+血 管 损 伤	problem
+血 管 水 肿	problem
+血 管 炎 性	problem
+血 管 球 性	problem
+血 管 疾 患	problem
+血 管 瘘 性	problem
+血 管 瘤 性	problem
+血 红 蛋 白	problem
+血 肿 机 化	problem
+血 色 病 性	problem
+血 透 失 衡	problem
+衣 原 体 性	problem
+补 体 成 分	problem
+补 体 系 统	problem
+裂 头 蚴 病	problem
+西 尼 罗 河	problem
+视 网 膜 性	problem
+视 网 膜 炎	problem
+角 化 过 度	problem
+角 膜 恶 性	problem
+角 膜 混 浊	problem
+角 膜 溃 疡	problem
+角 膜 畸 形	problem
+角 膜 碱 性	problem
+角 膜 良 性	problem
+角 膜 酸 性	problem
+语 言 障 碍	problem
+诺 卡 菌 病	problem
+败 血 症 型	problem
+质 脂 褐 质	problem
+质 量 缺 陷	problem
+贲 门 恶 性	problem
+贲 门 良 性	problem
+贾 第 虫 病	problem
+赖 芬 斯 坦	problem
+足 先 天 性	problem
+足 坏 死 性	problem
+足 感 染 性	problem
+足 粘 连 性	problem
+足 结 节 性	problem
+足 部 恶 性	problem
+趾 后 天 性	problem
+趾 骨 恶 性	problem
+趾 骨 良 性	problem
+跖 趾 关 节	problem
+跖 骨 恶 性	problem
+跖 骨 良 性	problem
+跗 骨 恶 性	problem
+跗 骨 良 性	problem
+踝 坏 死 性	problem
+踝 感 染 性	problem
+踝 结 节 性	problem
+踝 部 恶 性	problem
+身 份 障 碍	problem
+身 材 矮 小	problem
+躯 干 恶 性	problem
+躯 干 骨 折	problem
+轮 状 病 毒	problem
+软 腭 恶 性	problem
+软 骨 肉 瘤	problem
+载 脂 蛋 白	problem
+输 卵 管 炎	problem
+过 度 敏 感	problem
+运 动 障 碍	problem
+近 乳 头 性	problem
+造 血 功 能	problem
+造 血 器 官	problem
+部 位 急 性	problem
+部 位 良 性	problem
+鄂 木 斯 克	problem
+酒 精 中 毒	problem
+酮 类 毒 性	problem
+酶 缺 乏 性	problem
+酸 碱 平 衡	problem
+醇 类 毒 性	problem
+重 度 肥 胖	problem
+金 属 毒 性	problem
+银 屑 病 性	problem
+链 杆 菌 病	problem
+链 球 菌 性	problem
+锁 骨 恶 性	problem
+锁 骨 畸 形	problem
+锁 骨 良 性	problem
+错 构 瘤 病	problem
+镰 状 细 胞	problem
+门 脉 高 压	problem
+间 质 肾 炎	problem
+阑 尾 恶 性	problem
+阑 尾 良 性	problem
+阴 囊 恶 性	problem
+阴 囊 炎 性	problem
+阴 囊 良 性	problem
+阴 茎 恶 性	problem
+阴 茎 炎 性	problem
+阴 茎 痛 性	problem
+阴 茎 良 性	problem
+阴 蒂 恶 性	problem
+阴 道 恶 性	problem
+阴 道 良 性	problem
+阴 道 裂 伤	problem
+阿 米 巴 性	problem
+阿 米 巴 病	problem
+附 睾 恶 性	problem
+附 睾 炎 性	problem
+附 睾 良 性	problem
+隐 球 菌 性	problem
+隐 球 菌 病	problem
+雄 激 素 性	problem
+霉 菌 感 染	problem
+霍 奇 金 病	problem
+青 光 眼 性	problem
+静 脉 阻 塞	problem
+非 丝 虫 性	problem
+非 典 型 性	problem
+非 创 伤 性	problem
+非 化 脓 性	problem
+非 变 应 性	problem
+非 器 质 性	problem
+非 家 族 性	problem
+非 性 病 性	problem
+非 感 染 性	problem
+非 浸 润 性	problem
+非 溶 血 性	problem
+非 特 异 性	problem
+非 痢 疾 性	problem
+非 瘢 痕 性	problem
+非 白 血 性	problem
+非 肺 炎 性	problem
+非 风 湿 性	problem
+非 骨 化 性	problem
+非 麻 痹 性	problem
+面 部 恶 性	problem
+面 部 良 性	problem
+面 骨 恶 性	problem
+面 骨 畸 形	problem
+面 骨 良 性	problem
+面 骨 骨 折	problem
+革 兰 阳 性	problem
+革 兰 阴 性	problem
+鞍 区 良 性	problem
+鞘 膜 恶 性	problem
+鞘 膜 积 液	problem
+鞘 膜 良 性	problem
+顶 叶 恶 性	problem
+顶 叶 良 性	problem
+顶 骨 恶 性	problem
+顶 骨 良 性	problem
+须 部 假 性	problem
+颅 内 出 血	problem
+颅 内 损 伤	problem
+颅 内 炎 性	problem
+颅 底 良 性	problem
+颅 骨 恶 性	problem
+颅 骨 畸 形	problem
+颅 骨 良 性	problem
+颅 骨 骨 折	problem
+颈 后 天 性	problem
+颈 椎 恶 性	problem
+颈 椎 骨 折	problem
+颈 淋 巴 结	problem
+颈 部 恶 性	problem
+颈 部 良 性	problem
+颊 部 炎 性	problem
+颌 下 腺 炎	problem
+颌 出 血 性	problem
+颌 发 育 性	problem
+颌 外 生 性	problem
+颌 骨 炎 性	problem
+颏 下 恶 性	problem
+颏 部 恶 性	problem
+颔 下 恶 性	problem
+额 叶 恶 性	problem
+额 叶 良 性	problem
+额 窦 恶 性	problem
+额 骨 恶 性	problem
+额 骨 良 性	problem
+颞 叶 恶 性	problem
+颞 叶 良 性	problem
+颞 骨 恶 性	problem
+颞 骨 良 性	problem
+颧 骨 恶 性	problem
+颧 骨 良 性	problem
+食 物 中 毒	problem
+食 物 媒 介	problem
+食 管 恶 性	problem
+食 管 狭 窄	problem
+食 管 良 性	problem
+马 尾 恶 性	problem
+马 尾 绦 虫	problem
+马 尾 良 性	problem
+骨 关 节 病	problem
+骨 盆 骨 折	problem
+骨 质 疏 松	problem
+骨 软 化 症	problem
+骨 软 骨 病	problem
+骨 连 续 性	problem
+骨 髓 抑 制	problem
+骨 髓 硬 化	problem
+骶 骨 恶 性	problem
+骶 骨 良 性	problem
+骶 髂 关 节	problem
+髋 先 天 性	problem
+髋 关 节 病	problem
+髋 臼 骨 折	problem
+髋 骨 恶 性	problem
+髌 骨 恶 性	problem
+髌 骨 脱 位	problem
+髌 骨 良 性	problem
+髌 骨 骨 折	problem
+髓 核 疝 性	problem
+髓 部 囊 性	problem
+高 氨 血 症	problem
+高 磷 尿 症	problem
+高 磷 酸 盐	problem
+高 胆 固 醇	problem
+高 胆 红 素	problem
+高 脂 血 症	problem
+高 血 压 性	problem
+高 血 糖 素	problem
+高 钙 尿 症	problem
+高 钠 血 症	problem
+高 钾 血 症	problem
+鳃 裂 恶 性	problem
+黑 尿 酸 症	problem
+黑 色 素 瘤	problem
+鼻 先 天 性	problem
+鼻 后 天 性	problem
+鼻 咽 恶 性	problem
+鼻 咽 良 性	problem
+鼻 孔 良 性	problem
+鼻 甲 恶 性	problem
+鼻 硬 结 病	problem
+鼻 窦 恶 性	problem
+鼻 纤 维 性	problem
+鼻 腔 恶 性	problem
+鼻 腔 良 性	problem
+鼻 骨 恶 性	problem
+鼻 骨 良 性	problem
+鼻 骨 骨 折	problem
+齿 龈 良 性	problem
+龙 线 虫 病	problem
+龟 头 良 性	problem
+丁 型 病 毒 性	problem
+三 叉 神 经 痛	problem
+三 尖 瓣 狭 窄	problem
+三 尖 瓣 疾 患	problem
+三 期 梅 毒 性	problem
+上 牙 龈 恶 性	problem
+上 肢 开 放 性	problem
+上 肢 血 栓 性	problem
+上 臂 坏 死 性	problem
+上 臂 感 染 性	problem
+上 臂 结 节 性	problem
+上 颌 窦 恶 性	problem
+上 颌 骨 恶 性	problem
+上 颌 骨 良 性	problem
+上 颌 骨 骨 折	problem
+下 咽 壁 恶 性	problem
+下 壁 随 后 性	problem
+下 牙 龈 恶 性	problem
+下 肢 化 脓 性	problem
+下 肢 开 放 性	problem
+下 肢 血 栓 性	problem
+下 颌 骨 恶 性	problem
+下 颌 骨 良 性	problem
+下 颌 骨 骨 折	problem
+与 高 危 的 性	problem
+丘 疹 鳞 屑 性	problem
+丙 型 病 毒 性	problem
+丙 种 球 蛋 白	problem
+丙 酮 酸 激 酶	problem
+中 分 化 恶 性	problem
+中 心 牙 源 性	problem
+中 心 细 胞 性	problem
+中 耳 先 天 性	problem
+为 抗 病 毒 性	problem
+乙 型 病 毒 性	problem
+乙 脑 病 毒 性	problem
+乳 头 状 囊 性	problem
+乳 头 状 腺 癌	problem
+乳 房 先 天 性	problem
+乳 房 后 天 性	problem
+乳 房 诊 断 性	problem
+乳 清 酸 尿 性	problem
+乳 腺 血 栓 性	problem
+乳 酸 酸 中 毒	problem
+二 尖 瓣 狭 窄	problem
+二 尖 瓣 疾 患	problem
+二 期 梅 毒 性	problem
+交 感 反 射 性	problem
+产 前 播 散 性	problem
+产 后 播 散 性	problem
+亨 廷 顿 病 性	problem
+代 谢 紊 乱 性	problem
+伊 梅 斯 隆 德	problem
+会 厌 谷 恶 性	problem
+会 咽 谷 良 性	problem
+会 阴 部 恶 性	problem
+会 阴 部 炎 性	problem
+会 阴 部 良 性	problem
+会 阴 非 炎 性	problem
+伤 口 后 遗 症	problem
+低 丙 球 蛋 白	problem
+体 感 异 常 性	problem
+体 被 先 天 性	problem
+侧 脑 室 良 性	problem
+假 乳 头 状 癌	problem
+假 单 胞 菌 性	problem
+假 声 带 恶 性	problem
+假 白 血 病 性	problem
+偏 结 核 样 型	problem
+儿 童 周 期 性	problem
+克 罗 恩 病 性	problem
+克 雷 伯 杆 菌	problem
+免 疫 增 生 性	problem
+免 疫 母 细 胞	problem
+免 疫 球 蛋 白	problem
+免 疫 相 关 性	problem
+全 身 脓 疱 性	problem
+全 面 惊 厥 性	problem
+关 节 习 惯 性	problem
+关 节 原 发 性	problem
+关 节 复 发 性	problem
+关 节 病 理 性	problem
+关 节 结 核 性	problem
+兴 奋 剂 急 性	problem
+具 有 功 能 性	problem
+内 分 泌 疾 患	problem
+内 分 泌 病 性	problem
+内 分 泌 腺 病	problem
+内 耳 先 天 性	problem
+再 生 不 良 性	problem
+再 生 障 碍 性	problem
+冠 状 动 脉 性	problem
+冷 凝 集 素 病	problem
+凝 固 酶 阴 性	problem
+凯 拉 增 殖 性	problem
+分 枝 杆 菌 性	problem
+分 枝 杆 菌 病	problem
+分 泌 变 异 性	problem
+分 离 转 换 性	problem
+分 类 于 他 处	problem
+分 裂 情 感 性	problem
+切 断 后 遗 症	problem
+利 斯 特 菌 性	problem
+利 斯 特 菌 病	problem
+前 列 腺 恶 性	problem
+前 列 腺 炎 性	problem
+前 列 腺 良 性	problem
+前 壁 随 后 性	problem
+前 庭 周 围 性	problem
+前 房 积 脓 性	problem
+前 纵 隔 恶 性	problem
+前 臂 坏 死 性	problem
+前 臂 多 发 性	problem
+前 臂 感 染 性	problem
+前 臂 结 节 性	problem
+副 乳 腺 恶 性	problem
+副 神 经 恶 性	problem
+副 神 经 良 性	problem
+功 能 减 退 症	problem
+功 能 障 碍 性	problem
+加 利 福 尼 亚	problem
+动 脉 瘤 破 裂	problem
+动 脉 硬 化 性	problem
+升 结 肠 恶 性	problem
+升 结 肠 良 性	problem
+单 上 肢 骨 折	problem
+单 下 肢 骨 折	problem
+单 侧 传 导 性	problem
+单 侧 完 全 性	problem
+单 侧 嵌 顿 性	problem
+单 侧 混 合 性	problem
+单 侧 滑 动 性	problem
+单 侧 绞 窄 性	problem
+单 侧 难 复 性	problem
+单 核 细 胞 性	problem
+单 纯 红 细 胞	problem
+博 德 特 杆 菌	problem
+卡 氏 肺 囊 虫	problem
+卡 波 西 肉 瘤	problem
+卵 巢 先 天 性	problem
+卵 巢 冠 恶 性	problem
+卵 巢 浆 液 性	problem
+卵 巢 粘 液 性	problem
+卵 形 红 细 胞	problem
+卵 泡 细 胞 瘤	problem
+原 发 渗 出 性	problem
+原 有 特 发 性	problem
+原 有 继 发 性	problem
+双 上 肢 骨 折	problem
+双 下 肢 骨 折	problem
+双 侧 传 导 性	problem
+双 侧 完 全 性	problem
+双 侧 混 合 性	problem
+双 侧 滑 动 性	problem
+双 手 创 伤 性	problem
+双 臂 创 伤 性	problem
+双 足 创 伤 性	problem
+反 转 录 病 毒	problem
+发 育 异 常 性	problem
+变 形 杆 菌 性	problem
+变 态 反 应 性	problem
+口 前 庭 恶 性	problem
+口 形 红 细 胞	problem
+口 腔 开 放 性	problem
+古 典 生 物 型	problem
+可 卡 因 急 性	problem
+叶 状 囊 肉 瘤	problem
+同 源 嵌 合 体	problem
+后 天 获 得 性	problem
+后 纵 隔 恶 性	problem
+听 神 经 恶 性	problem
+听 神 经 良 性	problem
+听 骨 后 天 性	problem
+吸 收 不 良 性	problem
+周 围 牙 源 性	problem
+周 围 神 经 病	problem
+咳 嗽 变 异 性	problem
+咽 下 部 良 性	problem
+咽 下 面 恶 性	problem
+咽 侧 壁 恶 性	problem
+咽 后 壁 恶 性	problem
+咽 扁 桃 体 炎	problem
+咽 继 发 恶 性	problem
+咽 隐 窝 恶 性	problem
+咽 鼓 管 恶 性	problem
+哮 喘 和 慢 性	problem
+唇 内 面 恶 性	problem
+唇 皮 肤 恶 性	problem
+唇 皮 肤 良 性	problem
+唇 连 合 恶 性	problem
+唇 龈 沟 恶 性	problem
+喉 外 部 恶 性	problem
+喉 室 带 恶 性	problem
+喉 继 发 恶 性	problem
+喉 软 骨 恶 性	problem
+嗅 神 经 恶 性	problem
+嗅 神 经 源 性	problem
+嗅 神 经 良 性	problem
+嗜 酸 粒 细 胞	problem
+嗜 酸 细 胞 性	problem
+嗜 铬 细 胞 瘤	problem
+器 官 后 天 性	problem
+噬 红 细 胞 性	problem
+囊 性 纤 维 化	problem
+囊 性 纤 维 病	problem
+四 肢 先 天 性	problem
+四 肢 后 天 性	problem
+四 肢 骨 恶 性	problem
+回 盲 部 恶 性	problem
+回 盲 部 良 性	problem
+圆 韧 带 恶 性	problem
+地 中 海 贫 血	problem
+坐 骨 神 经 痛	problem
+垂 体 依 赖 性	problem
+基 底 核 变 性	problem
+基 底 细 胞 癌	problem
+基 底 节 良 性	problem
+增 生 低 下 性	problem
+声 门 上 恶 性	problem
+声 门 下 恶 性	problem
+复 孔 绦 虫 病	problem
+复 杂 部 分 性	problem
+外 上 唇 恶 性	problem
+外 下 唇 恶 性	problem
+外 套 细 胞 性	problem
+外 宫 颈 恶 性	problem
+外 耳 道 恶 性	problem
+外 耳 道 狭 窄	problem
+外 耳 道 良 性	problem
+外 耳 阻 塞 性	problem
+外 阴 先 天 性	problem
+外 阴 硬 化 性	problem
+外 阴 阴 道 炎	problem
+外 阴 陈 旧 性	problem
+外 阴 非 炎 性	problem
+多 形 核 中 性	problem
+多 房 棘 球 蚴	problem
+多 胎 延 迟 性	problem
+多 骨 纤 维 性	problem
+大 动 脉 转 位	problem
+大 圆 细 胞 性	problem
+大 涎 腺 恶 性	problem
+大 涎 腺 良 性	problem
+大 红 细 胞 性	problem
+大 肠 先 天 性	problem
+大 肠 杆 菌 性	problem
+大 脑 动 脉 炎	problem
+大 腿 坏 死 性	problem
+大 腿 感 染 性	problem
+大 腿 结 节 性	problem
+大 阴 唇 恶 性	problem
+头 皮 开 放 性	problem
+头 部 开 放 性	problem
+夸 希 奥 科 病	problem
+奇 昆 古 尼 亚	problem
+妊 娠 期 急 性	problem
+婴 儿 丘 疹 性	problem
+婴 儿 脂 溢 性	problem
+婴 儿 进 行 性	problem
+子 宫 体 恶 性	problem
+子 宫 体 良 性	problem
+子 宫 先 天 性	problem
+子 宫 内 膜 炎	problem
+子 宫 底 恶 性	problem
+子 宫 强 直 性	problem
+子 宫 病 理 性	problem
+子 宫 非 炎 性	problem
+孢 子 丝 菌 病	problem
+宋 内 志 贺 菌	problem
+宗 教 仪 式 性	problem
+宫 颈 肥 厚 性	problem
+宫 颈 胚 胎 性	problem
+宫 颈 非 炎 性	problem
+家 族 遗 传 性	problem
+对 立 违 抗 性	problem
+导 管 相 关 性	problem
+小 分 裂 细 胞	problem
+小 叶 中 心 性	problem
+小 涎 腺 恶 性	problem
+小 涎 腺 良 性	problem
+小 红 细 胞 性	problem
+小 肠 结 肠 炎	problem
+小 腿 坏 死 性	problem
+小 腿 开 放 性	problem
+小 腿 感 染 性	problem
+小 腿 结 节 性	problem
+小 阴 唇 恶 性	problem
+少 发 复 发 性	problem
+尺 神 经 良 性	problem
+尿 道 周 脓 肿	problem
+屈 光 参 差 性	problem
+巨 幼 细 胞 性	problem
+巨 核 细 胞 性	problem
+巴 尔 通 体 病	problem
+巴 斯 德 菌 病	problem
+布 氏 杆 菌 病	problem
+帕 金 森 病 性	problem
+带 状 疱 疹 性	problem
+干 燥 闭 塞 性	problem
+幼 白 红 细 胞	problem
+幽 门 前 恶 性	problem
+幽 门 窦 恶 性	problem
+幽 门 管 恶 性	problem
+庚 型 病 毒 性	problem
+异 尖 线 虫 病	problem
+异 物 吸 入 性	problem
+弗 氏 志 贺 菌	problem
+弗 雷 德 里 克	problem
+形 式 全 身 性	problem
+形 式 系 统 性	problem
+微 小 侵 袭 性	problem
+微 球 菌 属 性	problem
+心 内 膜 心 肌	problem
+心 内 膜 良 性	problem
+心 外 膜 良 性	problem
+心 肺 综 合 征	problem
+心 脏 先 天 性	problem
+心 脏 诊 断 性	problem
+念 珠 菌 感 染	problem
+性 发 育 不 全	problem
+恶 化 劳 力 性	problem
+悬 壅 垂 良 性	problem
+悬 雍 垂 恶 性	problem
+感 冒 伴 表 现	problem
+感 觉 异 样 性	problem
+感 音 神 经 性	problem
+戊 型 病 毒 性	problem
+成 人 肥 厚 性	problem
+成 人 药 物 性	problem
+成 人 骨 软 化	problem
+成 釉 细 胞 瘤	problem
+房 室 结 囊 性	problem
+房 室 隔 缺 损	problem
+扁 桃 体 恶 性	problem
+扁 桃 体 良 性	problem
+手 术 前 恶 性	problem
+手 术 后 恶 性	problem
+手 术 后 慢 性	problem
+手 皮 肤 恶 性	problem
+手 神 经 恶 性	problem
+抗 凝 血 酶 原	problem
+抗 活 化 蛋 白	problem
+抗 生 素 中 毒	problem
+持 久 妄 想 性	problem
+掌 跖 脓 疱 性	problem
+揉 面 刺 激 性	problem
+支 原 体 菌 属	problem
+支 气 管 哮 喘	problem
+支 气 管 恶 性	problem
+支 气 管 扩 张	problem
+支 气 管 源 性	problem
+支 气 管 良 性	problem
+放 线 菌 病 性	problem
+新 生 儿 惊 厥	problem
+新 生 血 管 性	problem
+无 丙 球 蛋 白	problem
+无 晶 状 体 性	problem
+无 机 物 毒 性	problem
+早 期 先 天 性	problem
+早 期 医 疗 性	problem
+早 期 梅 毒 性	problem
+明 科 夫 斯 基	problem
+星 形 细 胞 瘤	problem
+春 季 卡 他 性	problem
+晚 期 先 天 性	problem
+晚 期 医 疗 性	problem
+晶 体 诱 发 性	problem
+晶 状 体 畸 形	problem
+暗 丝 孢 霉 病	problem
+曼 森 丝 虫 病	problem
+未 分 化 恶 性	problem
+机 能 减 退 症	problem
+杀 虫 剂 毒 性	problem
+杂 醇 油 毒 性	problem
+松 果 体 恶 性	problem
+松 果 体 良 性	problem
+染 料 接 触 性	problem
+染 色 体 异 常	problem
+格 雷 夫 斯 病	problem
+桡 神 经 良 性	problem
+梨 状 窝 恶 性	problem
+梭 形 上 皮 性	problem
+棘 阿 米 巴 病	problem
+植 物 接 触 性	problem
+椎 动 脉 假 性	problem
+椎 管 内 炎 性	problem
+椎 管 内 骨 性	problem
+樊 尚 螺 旋 体	problem
+横 窦 非 脓 性	problem
+横 纹 肌 肉 瘤	problem
+横 结 肠 恶 性	problem
+横 结 肠 良 性	problem
+正 常 眼 压 性	problem
+正 痘 病 毒 属	problem
+母 体 先 天 性	problem
+母 体 病 毒 性	problem
+母 体 系 统 性	problem
+毛 发 先 天 性	problem
+毛 圆 线 虫 病	problem
+毛 细 线 虫 病	problem
+气 管 先 天 性	problem
+氰 化 氢 毒 性	problem
+永 存 原 发 性	problem
+沃 弗 综 合 征	problem
+沙 粒 病 毒 性	problem
+泄 殖 腔 源 性	problem
+泌 尿 生 殖 系	problem
+泌 尿 生 殖 道	problem
+泌 尿 道 恶 性	problem
+泌 尿 道 感 染	problem
+泡 膜 细 胞 瘤	problem
+波 氏 志 贺 菌	problem
+泪 器 先 天 性	problem
+海 产 品 毒 性	problem
+海 分 枝 杆 菌	problem
+海 绵 体 恶 性	problem
+海 马 回 良 性	problem
+消 化 道 恶 性	problem
+淀 粉 样 变 性	problem
+淋 巴 管 内 性	problem
+淋 巴 管 恶 性	problem
+淋 巴 细 胞 性	problem
+淋 巴 结 增 大	problem
+淋 巴 结 良 性	problem
+淋 巴 肉 芽 肿	problem
+混 合 型 脑 性	problem
+混 合 细 胞 性	problem
+溃 疡 伴 穿 孔	problem
+激 素 依 赖 性	problem
+烟 草 有 害 性	problem
+热 带 口 炎 性	problem
+热 带 痉 挛 性	problem
+牙 骨 质 化 性	problem
+牙 齿 病 理 性	problem
+牙 龈 化 脓 性	problem
+牛 奶 过 敏 性	problem
+牛 肉 绦 虫 病	problem
+物 质 接 触 性	problem
+猪 肉 绦 虫 病	problem
+猴 疟 原 虫 性	problem
+球 孢 子 菌 病	problem
+球 形 红 细 胞	problem
+瓣 膜 风 湿 性	problem
+生 殖 器 脱 垂	problem
+生 殖 细 胞 瘤	problem
+生 物 素 依 赖	problem
+生 长 抑 素 瘤	problem
+甲 型 病 毒 性	problem
+甲 状 旁 腺 性	problem
+甲 状 腺 恶 性	problem
+甲 状 腺 毒 症	problem
+甲 状 腺 组 织	problem
+甲 状 腺 肿 性	problem
+甲 状 腺 良 性	problem
+畸 形 细 胞 性	problem
+畸 形 综 合 征	problem
+疟 原 虫 疟 疾	problem
+疱 疹 病 毒 性	problem
+疱 疹 病 毒 病	problem
+病 原 体 急 性	problem
+病 原 体 感 染	problem
+痉 挛 型 脑 性	problem
+瘢 痕 疙 瘩 性	problem
+白 内 障 术 后	problem
+皮 肤 先 天 性	problem
+皮 肤 划 痕 性	problem
+皮 肤 变 应 性	problem
+皮 肤 干 燥 病	problem
+皮 肤 感 染 性	problem
+皮 肤 松 弛 症	problem
+皮 肤 穿 入 性	problem
+皮 肤 结 核 性	problem
+皮 肤 肥 厚 性	problem
+皮 肤 萎 缩 性	problem
+盆 腔 腹 膜 炎	problem
+盘 尾 丝 虫 病	problem
+眦 皮 肤 恶 性	problem
+眦 皮 肤 良 性	problem
+眶 内 血 栓 性	problem
+眼 外 肌 恶 性	problem
+眼 外 肌 良 性	problem
+眼 睑 先 天 性	problem
+眼 睑 粘 连 性	problem
+眼 继 发 恶 性	problem
+眼 色 素 膜 炎	problem
+着 色 真 菌 病	problem
+着 色 紫 癜 性	problem
+睑 板 腺 恶 性	problem
+睫 状 体 恶 性	problem
+睫 状 体 良 性	problem
+短 暂 缺 血 性	problem
+硫 化 氢 毒 性	problem
+硬 化 萎 缩 性	problem
+硬 膜 下 出 血	problem
+硬 膜 下 恶 性	problem
+硬 膜 下 血 肿	problem
+硬 膜 外 出 血	problem
+硬 膜 外 恶 性	problem
+硬 膜 外 良 性	problem
+碳 水 化 合 物	problem
+磷 酸 脱 氢 酶	problem
+社 区 获 得 性	problem
+神 经 外 胚 瘤	problem
+神 经 官 能 性	problem
+神 经 肌 肉 性	problem
+神 经 胶 质 瘤	problem
+神 经 营 养 性	problem
+神 经 麻 痹 性	problem
+移 行 细 胞 性	problem
+立 克 次 体 性	problem
+立 克 次 体 病	problem
+立 克 次 体 痘	problem
+童 年 反 应 性	problem
+童 年 恐 怖 性	problem
+童 年 瓦 解 性	problem
+等 孢 球 虫 病	problem
+类 圆 线 虫 病	problem
+类 型 弥 漫 性	problem
+类 型 滤 泡 性	problem
+粘 液 水 肿 型	problem
+粘 液 水 肿 性	problem
+粟 粒 坏 死 性	problem
+粪 类 圆 线 虫	problem
+精 原 细 胞 瘤	problem
+精 母 细 胞 性	problem
+精 神 分 裂 症	problem
+糖 皮 质 激 素	problem
+糠 秕 孢 子 性	problem
+系 膜 增 生 性	problem
+紧 张 型 头 痛	problem
+纤 维 上 皮 性	problem
+纵 隔 先 天 性	problem
+细 支 气 管 炎	problem
+细 粒 棘 球 蚴	problem
+绒 毛 结 节 性	problem
+结 合 球 蛋 白	problem
+结 膜 干 燥 症	problem
+绝 对 素 食 者	problem
+绿 脓 杆 菌 性	problem
+缺 氧 缺 血 性	problem
+网 状 红 斑 性	problem
+罗 阿 丝 虫 病	problem
+耐 甲 氧 西 林	problem
+耳 皮 肤 恶 性	problem
+耳 皮 肤 良 性	problem
+耶 尔 森 菌 性	problem
+耶 尔 森 菌 病	problem
+肌 张 力 障 碍	problem
+肌 肉 原 发 性	problem
+肌 肉 缺 血 性	problem
+肌 肉 麻 痹 性	problem
+肌 腱 自 发 性	problem
+肘 关 节 恶 性	problem
+肘 关 节 脱 位	problem
+肝 功 能 衰 竭	problem
+肝 继 发 恶 性	problem
+肠 寄 生 虫 性	problem
+肠 球 菌 属 性	problem
+肠 病 毒 疹 热	problem
+肠 系 膜 恶 性	problem
+肠 系 膜 良 性	problem
+肠 道 病 原 性	problem
+股 动 脉 假 性	problem
+股 骨 头 坏 死	problem
+股 骨 干 骨 折	problem
+股 骨 颈 骨 折	problem
+肢 体 诊 断 性	problem
+肥 大 细 胞 瘤	problem
+肥 胖 相 关 性	problem
+肩 关 节 脱 位	problem
+肩 区 坏 死 性	problem
+肩 区 感 染 性	problem
+肩 区 结 节 性	problem
+肩 皮 肤 良 性	problem
+肩 胛 骨 恶 性	problem
+肩 胛 骨 良 性	problem
+肩 胛 骨 骨 折	problem
+肩 臂 浅 表 性	problem
+肺 上 叶 恶 性	problem
+肺 上 沟 恶 性	problem
+肺 下 叶 恶 性	problem
+肺 中 叶 恶 性	problem
+肺 功 能 不 全	problem
+肺 动 脉 高 压	problem
+肺 炎 杆 菌 性	problem
+肺 炎 球 菌 性	problem
+肺 继 发 恶 性	problem
+肺 芽 生 菌 病	problem
+肾 上 腺 假 性	problem
+肾 上 腺 恶 性	problem
+肾 上 腺 皮 质	problem
+肾 上 腺 良 性	problem
+肾 型 过 敏 性	problem
+肾 小 球 损 害	problem
+肾 小 球 肾 炎	problem
+肾 母 细 胞 瘤	problem
+肾 炎 综 合 征	problem
+肾 的 先 天 性	problem
+肾 继 发 恶 性	problem
+肿 瘤 个 人 史	problem
+肿 瘤 家 族 史	problem
+肿 瘤 相 关 性	problem
+胃 大 弯 恶 性	problem
+胃 小 弯 恶 性	problem
+胃 继 发 恶 性	problem
+胃 肠 道 恶 性	problem
+胆 囊 先 天 性	problem
+胆 囊 占 位 性	problem
+胆 囊 管 恶 性	problem
+胆 总 管 恶 性	problem
+胆 汁 淤 积 性	problem
+胆 管 先 天 性	problem
+胆 管 占 位 性	problem
+背 部 感 染 性	problem
+胎 儿 遗 传 性	problem
+胰 腺 占 位 性	problem
+胰 部 位 恶 性	problem
+胶 原 血 管 性	problem
+胸 廓 先 天 性	problem
+胸 椎 退 行 性	problem
+胸 腔 占 位 性	problem
+胼 胝 体 恶 性	problem
+胼 胝 体 良 性	problem
+脂 肪 增 多 症	problem
+脂 肪 萎 缩 性	problem
+脂 肪 过 多 症	problem
+脂 质 沉 积 性	problem
+脉 络 丛 恶 性	problem
+脉 络 丛 良 性	problem
+脉 络 膜 恶 性	problem
+脉 络 膜 脱 离	problem
+脉 络 膜 良 性	problem
+脊 柱 先 天 性	problem
+脊 柱 压 缩 性	problem
+脊 柱 结 核 性	problem
+脊 椎 应 力 性	problem
+脊 椎 疲 劳 性	problem
+脊 椎 退 行 性	problem
+脊 神 经 良 性	problem
+脊 髓 先 天 性	problem
+脊 髓 后 侧 索	problem
+脊 髓 完 全 性	problem
+脊 髓 灰 质 炎	problem
+脊 髓 空 洞 性	problem
+脊 髓 膜 良 性	problem
+脐 尿 管 恶 性	problem
+脐 带 破 裂 性	problem
+脑 幕 上 良 性	problem
+脑 幕 下 良 性	problem
+脑 神 经 良 性	problem
+脑 继 发 恶 性	problem
+脑 脊 膜 恶 性	problem
+脑 脊 膜 良 性	problem
+脑 脊 髓 膜 炎	problem
+脑 膜 炎 球 菌	problem
+脾 动 脉 假 性	problem
+脾 浆 细 胞 性	problem
+脾 继 发 恶 性	problem
+腕 关 节 脱 位	problem
+腮 腺 多 形 性	problem
+腰 椎 结 核 性	problem
+腰 椎 退 行 性	problem
+腹 型 过 敏 性	problem
+腹 壁 先 天 性	problem
+腹 壁 感 染 性	problem
+腹 股 沟 恶 性	problem
+腹 股 沟 斜 疝	problem
+腹 股 沟 直 疝	problem
+腹 股 沟 良 性	problem
+腹 膜 后 恶 性	problem
+腹 膜 后 良 性	problem
+腹 膜 后 血 肿	problem
+腹 膜 腔 恶 性	problem
+腹 部 结 核 性	problem
+腺 样 体 恶 性	problem
+腺 瘤 样 息 肉	problem
+腺 苷 脱 氨 酶	problem
+膀 胱 占 位 性	problem
+膀 胱 顶 恶 性	problem
+膀 胱 颈 恶 性	problem
+膈 继 发 恶 性	problem
+膜 壳 绦 虫 病	problem
+膝 关 节 脱 位	problem
+膝 韧 带 破 裂	problem
+自 体 免 疫 性	problem
+自 体 过 敏 性	problem
+自 身 免 疫 性	problem
+致 幻 剂 急 性	problem
+舌 下 腺 恶 性	problem
+舌 下 腺 良 性	problem
+舌 系 带 恶 性	problem
+舌 继 发 恶 性	problem
+舌 背 面 恶 性	problem
+舌 腹 面 恶 性	problem
+节 旁 体 恶 性	problem
+节 旁 体 良 性	problem
+药 物 光 毒 性	problem
+药 物 接 触 性	problem
+药 物 过 敏 性	problem
+药 物 间 质 性	problem
+莱 迪 细 胞 瘤	problem
+营 养 不 良 性	problem
+葡 萄 球 菌 性	problem
+葡 萄 膜 恶 性	problem
+虫 媒 病 毒 性	problem
+虹 膜 异 色 性	problem
+蛇 毒 液 毒 性	problem
+蛋 白 丢 失 性	problem
+蛋 白 缺 乏 性	problem
+蝶 鞍 区 恶 性	problem
+螺 旋 体 感 染	problem
+血 吸 虫 病 性	problem
+血 小 板 减 少	problem
+血 栓 形 成 性	problem
+血 栓 闭 塞 性	problem
+血 清 反 应 性	problem
+血 管 中 心 性	problem
+血 管 内 凝 血	problem
+血 管 内 皮 瘤	problem
+血 管 前 置 性	problem
+血 管 神 经 性	problem
+血 管 舒 张 性	problem
+血 管 萎 缩 性	problem
+血 管 运 动 性	problem
+血 红 蛋 白 尿	problem
+血 红 蛋 白 病	problem
+血 行 播 散 型	problem
+衣 原 体 感 染	problem
+衣 原 体 疾 病	problem
+表 皮 松 解 症	problem
+表 皮 脱 落 性	problem
+表 面 扩 散 性	problem
+裂 头 绦 虫 病	problem
+视 神 经 恶 性	problem
+视 神 经 损 害	problem
+视 神 经 良 性	problem
+视 网 膜 变 性	problem
+视 网 膜 恶 性	problem
+视 网 膜 病 变	problem
+视 网 膜 脱 离	problem
+视 网 膜 良 性	problem
+视 觉 敏 感 性	problem
+角 化 过 度 性	problem
+角 膜 化 学 性	problem
+角 膜 后 弹 性	problem
+角 膜 干 燥 症	problem
+角 膜 干 眼 性	problem
+角 膜 溃 疡 性	problem
+角 膜 结 膜 炎	problem
+角 膜 软 化 症	problem
+足 皮 肤 恶 性	problem
+踝 关 节 畸 形	problem
+踝 关 节 脱 位	problem
+踝 和 足 损 伤	problem
+踝 骨 闭 合 性	problem
+身 体 开 放 性	problem
+躯 干 部 恶 性	problem
+躯 干 部 良 性	problem
+转 钴 胺 素 Ⅱ	problem
+轻 泻 剂 中 毒	problem
+载 硫 氨 基 酸	problem
+输 卵 管 恶 性	problem
+输 卵 管 良 性	problem
+输 卵 管 闭 锁	problem
+输 尿 管 恶 性	problem
+输 尿 管 断 裂	problem
+输 尿 管 狭 窄	problem
+输 尿 管 良 性	problem
+过 氧 化 氢 酶	problem
+过 氧 化 物 酶	problem
+运 动 障 碍 性	problem
+透 明 小 梁 性	problem
+透 析 准 备 性	problem
+造 血 不 良 性	problem
+遗 传 性 因 子	problem
+部 位 钙 化 性	problem
+部 位 随 后 性	problem
+酒 精 中 毒 性	problem
+酒 精 有 害 性	problem
+酮 症 酸 中 毒	problem
+重 叠 感 染 型	problem
+铁 粒 幼 细 胞	problem
+链 球 菌 急 性	problem
+镰 状 细 胞 性	problem
+门 脉 高 压 性	problem
+间 歇 发 作 性	problem
+阔 韧 带 恶 性	problem
+阴 沟 杆 菌 性	problem
+阴 沟 肠 杆 菌	problem
+阴 茎 体 恶 性	problem
+阴 茎 先 天 性	problem
+阴 茎 头 恶 性	problem
+阴 蒂 先 天 性	problem
+阴 道 先 天 性	problem
+阴 道 非 炎 性	problem
+降 结 肠 恶 性	problem
+降 结 肠 良 性	problem
+隐 孢 子 虫 病	problem
+震 颤 型 脑 性	problem
+霉 样 真 菌 病	problem
+非 淋 球 菌 性	problem
+非 神 经 病 性	problem
+非 类 固 醇 性	problem
+非 致 依 赖 性	problem
+面 神 经 恶 性	problem
+面 神 经 良 性	problem
+面 神 经 麻 痹	problem
+革 兰 阳 性 菌	problem
+鞍 上 区 恶 性	problem
+韧 带 后 天 性	problem
+顶 枕 叶 恶 性	problem
+顶 颞 叶 恶 性	problem
+颅 内 占 位 性	problem
+颅 咽 管 恶 性	problem
+颅 咽 管 良 性	problem
+颅 神 经 恶 性	problem
+颅 脑 外 伤 性	problem
+颈 动 脉 假 性	problem
+颈 动 脉 窦 性	problem
+颈 椎 退 行 性	problem
+颈 部 创 伤 性	problem
+颈 部 开 放 性	problem
+颊 内 部 恶 性	problem
+颊 粘 膜 恶 性	problem
+颊 粘 膜 良 性	problem
+颊 龈 沟 恶 性	problem
+颌 下 腺 恶 性	problem
+颌 下 腺 良 性	problem
+颌 动 脉 瘤 性	problem
+颌 骨 放 射 性	problem
+颌 骨 牙 源 性	problem
+频 发 复 发 性	problem
+颗 粒 细 胞 瘤	problem
+额 顶 叶 恶 性	problem
+额 颞 叶 恶 性	problem
+颞 枕 叶 恶 性	problem
+食 物 过 敏 性	problem
+食 管 先 天 性	problem
+食 管 隆 起 性	problem
+骨 巨 细 胞 瘤	problem
+骨 继 发 恶 性	problem
+骨 营 养 不 良	problem
+骨 髓 抑 制 性	problem
+骨 髓 纤 维 化	problem
+骶 尾 部 恶 性	problem
+髂 动 脉 假 性	problem
+髂 窝 结 核 性	problem
+髋 关 节 畸 形	problem
+髋 关 节 脱 位	problem
+髋 皮 肤 良 性	problem
+髓 系 白 血 病	problem
+高 丙 球 蛋 白	problem
+高 功 能 腺 瘤	problem
+高 度 近 视 性	problem
+高 血 糖 素 瘤	problem
+鳞 状 牙 源 性	problem
+鳞 状 细 胞 癌	problem
+黄 肉 芽 肿 性	problem
+黑 色 丘 疹 性	problem
+鼓 膜 边 缘 性	problem
+鼻 中 隔 恶 性	problem
+鼻 中 隔 良 性	problem
+鼻 前 庭 恶 性	problem
+鼻 前 庭 良 性	problem
+鼻 后 孔 恶 性	problem
+鼻 后 孔 良 性	problem
+鼻 咽 壁 恶 性	problem
+鼻 咽 底 恶 性	problem
+鼻 咽 顶 恶 性	problem
+鼻 唇 沟 恶 性	problem
+鼻 旁 窦 恶 性	problem
+鼻 旁 窦 良 性	problem
+鼻 泪 管 恶 性	problem
+鼻 病 毒 急 性	problem
+鼻 粘 膜 良 性	problem
+鼻 软 骨 恶 性	problem
+鼻 软 骨 良 性	problem
+免 疫 球 蛋 白 A	problem
+免 疫 球 蛋 白 G	problem
+免 疫 球 蛋 白 M	problem
+γ 疱 疹 病 毒 性	problem
+一 氧 化 碳 毒 性	problem
+三 叉 神 经 恶 性	problem
+三 叉 神 经 良 性	problem
+三 尖 瓣 先 天 性	problem
+三 氯 乙 烯 毒 性	problem
+上 呼 吸 道 恶 性	problem
+上 呼 吸 道 感 染	problem
+上 唇 内 面 恶 性	problem
+上 皮 样 间 皮 瘤	problem
+上 肢 皮 肤 恶 性	problem
+上 肢 皮 肤 良 性	problem
+上 肢 短 骨 恶 性	problem
+上 肢 短 骨 良 性	problem
+上 肢 长 骨 恶 性	problem
+上 肢 长 骨 良 性	problem
+上 臂 皮 肤 恶 性	problem
+下 呼 吸 道 感 染	problem
+下 咽 后 壁 恶 性	problem
+下 唇 内 面 恶 性	problem
+下 泌 尿 生 殖 道	problem
+下 肢 皮 肤 恶 性	problem
+下 肢 皮 肤 良 性	problem
+下 肢 短 骨 恶 性	problem
+下 肢 短 骨 良 性	problem
+下 肢 长 骨 恶 性	problem
+下 肢 长 骨 良 性	problem
+下 腔 静 脉 恶 性	problem
+下 颌 下 腺 恶 性	problem
+不 动 杆 菌 属 性	problem
+与 鱼 接 触 毒 性	problem
+丘 脑 继 发 恶 性	problem
+丙 酮 酸 盐 代 谢	problem
+丙 酮 酸 脱 羧 酶	problem
+中 分 化 淋 巴 瘤	problem
+中 枢 神 经 系 统	problem
+中 毒 型 细 菌 性	problem
+中 耳 继 发 恶 性	problem
+主 动 脉 体 恶 性	problem
+主 动 脉 体 良 性	problem
+主 动 脉 先 天 性	problem
+主 动 脉 占 位 性	problem
+主 动 脉 弓 假 性	problem
+主 动 脉 瓣 狭 窄	problem
+主 动 脉 瓣 疾 病	problem
+主 支 气 管 恶 性	problem
+主 支 气 管 良 性	problem
+主 要 为 全 身 性	problem
+乙 型 肝 炎 病 毒	problem
+乙 状 窦 非 脓 性	problem
+乙 状 结 肠 恶 性	problem
+乙 状 结 肠 良 性	problem
+乳 头 状 浆 液 性	problem
+乳 头 状 滤 泡 性	problem
+乳 头 状 瘤 癌 变	problem
+乳 头 状 粘 液 性	problem
+乳 房 皮 肤 恶 性	problem
+乳 房 皮 肤 良 性	problem
+乳 腺 发 育 不 良	problem
+乳 腺 纤 维 囊 性	problem
+乳 腺 继 发 恶 性	problem
+二 氧 化 硫 毒 性	problem
+二 氧 化 碳 毒 性	problem
+二 氯 甲 烷 毒 性	problem
+二 硫 化 碳 毒 性	problem
+交 界 痣 内 恶 性	problem
+产 褥 期 继 发 性	problem
+产 褥 期 血 栓 性	problem
+仅 为 抗 流 行 性	problem
+会 厌 前 面 恶 性	problem
+会 厌 边 缘 恶 性	problem
+会 阴 继 发 恶 性	problem
+伯 基 特 淋 巴 瘤	problem
+伴 有 精 神 病 性	problem
+伴 滥 用 可 能 性	problem
+伸 肌 腱 自 发 性	problem
+低 丙 种 球 蛋 白	problem
+低 分 化 淋 巴 瘤	problem
+低 密 度 脂 蛋 白	problem
+低 血 糖 昏 迷 性	problem
+低 钾 型 周 期 性	problem
+促 性 腺 激 素 性	problem
+促 甲 状 腺 激 素	problem
+催 泪 气 体 毒 性	problem
+儿 童 枕 叶 癫 痫	problem
+克 雷 白 杆 菌 性	problem
+免 疫 母 细 胞 性	problem
+关 节 型 过 敏 性	problem
+关 节 软 骨 恶 性	problem
+兴 奋 剂 有 害 性	problem
+内 分 泌 腺 恶 性	problem
+内 分 泌 腺 良 性	problem
+内 在 因 子 缺 乏	problem
+凝 血 因 子 缺 乏	problem
+分 娩 中 不 完 性	problem
+初 发 型 劳 力 性	problem
+制 剂 有 害 效 应	problem
+前 庭 大 腺 恶 性	problem
+前 臂 皮 肤 恶 性	problem
+副 球 孢 子 菌 病	problem
+动 眼 神 经 恶 性	problem
+动 眼 神 经 良 性	problem
+化 妆 品 接 触 性	problem
+化 学 品 接 触 性	problem
+十 二 指 肠 恶 性	problem
+十 二 指 肠 溃 疡	problem
+十 二 指 肠 破 裂	problem
+十 二 指 肠 良 性	problem
+升 主 动 脉 假 性	problem
+单 侧 膝 关 节 病	problem
+单 侧 髋 关 节 病	problem
+单 核 细 胞 增 多	problem
+博 德 特 杆 菌 性	problem
+卵 巢 甲 状 腺 肿	problem
+卵 巢 继 发 恶 性	problem
+原 淋 巴 细 胞 性	problem
+双 侧 膝 关 节 病	problem
+双 侧 髋 关 节 病	problem
+双 小 腿 创 伤 性	problem
+取 向 有 关 咨 询	problem
+口 咽 侧 壁 恶 性	problem
+口 咽 后 壁 恶 性	problem
+口 底 侧 部 恶 性	problem
+口 底 前 部 恶 性	problem
+口 腔 粘 膜 恶 性	problem
+口 腔 继 发 恶 性	problem
+可 卡 因 有 害 性	problem
+可 疑 乳 腺 恶 性	problem
+叶 酸 盐 缺 乏 性	problem
+周 围 血 管 病 变	problem
+呼 吸 机 相 关 性	problem
+呼 吸 系 统 恶 性	problem
+呼 吸 系 统 良 性	problem
+和 部 分 三 体 型	problem
+咽 扁 桃 体 恶 性	problem
+咽 扁 桃 体 良 性	problem
+品 他 病 混 合 性	problem
+嗜 酸 性 粒 细 胞	problem
+嗜 酸 粒 细 胞 性	problem
+囊 性 纤 维 化 病	problem
+四 氯 乙 烯 毒 性	problem
+四 氯 化 碳 毒 性	problem
+回 盲 部 粘 液 性	problem
+回 肠 继 发 恶 性	problem
+垂 体 继 发 恶 性	problem
+增 殖 型 肺 结 核	problem
+声 带 不 典 型 性	problem
+壶 腹 周 围 恶 性	problem
+壶 腹 继 发 恶 性	problem
+复 发 和 持 续 性	problem
+外 展 神 经 恶 性	problem
+外 展 神 经 良 性	problem
+外 阴 继 发 恶 性	problem
+多 个 部 位 急 性	problem
+多 内 分 泌 腺 病	problem
+多 发 脑 梗 死 性	problem
+多 巴 胺 反 应 性	problem
+多 颅 神 经 麻 痹	problem
+大 动 脉 先 天 性	problem
+大 疱 型 多 形 性	problem
+大 细 胞 淋 巴 瘤	problem
+大 细 胞 滤 泡 性	problem
+大 肠 杆 菌 感 染	problem
+大 肠 继 发 恶 性	problem
+大 脑 继 发 恶 性	problem
+大 腿 皮 肤 恶 性	problem
+大 静 脉 先 天 性	problem
+头 皮 皮 肤 恶 性	problem
+头 颈 部 结 核 性	problem
+妊 娠 伴 原 发 性	problem
+妊 娠 合 并 室 性	problem
+妊 娠 合 并 急 性	problem
+妊 娠 合 并 恶 性	problem
+妊 娠 合 并 慢 性	problem
+妊 娠 合 并 房 性	problem
+妊 娠 合 并 窦 性	problem
+妊 娠 合 并 良 性	problem
+妊 娠 期 短 暂 性	problem
+妊 娠 期 血 栓 性	problem
+婴 儿 型 特 发 性	problem
+婴 儿 型 脊 髓 性	problem
+婴 儿 期 短 暂 性	problem
+子 宫 下 段 恶 性	problem
+子 宫 内 膜 恶 性	problem
+子 宫 内 膜 腺 性	problem
+子 宫 卵 巢 恶 性	problem
+子 宫 峡 部 恶 性	problem
+子 宫 继 发 恶 性	problem
+子 宫 肌 层 恶 性	problem
+子 宫 附 件 恶 性	problem
+子 宫 韧 带 恶 性	problem
+子 宫 韧 带 良 性	problem
+宫 颈 内 膜 恶 性	problem
+宫 颈 残 端 恶 性	problem
+小 动 脉 硬 化 性	problem
+小 淋 巴 细 胞 性	problem
+小 细 胞 型 恶 性	problem
+小 肠 继 发 恶 性	problem
+小 脑 共 济 失 调	problem
+小 脑 继 发 恶 性	problem
+小 脑 蚓 部 恶 性	problem
+小 脑 蚓 部 良 性	problem
+小 腿 皮 肤 恶 性	problem
+小 袋 纤 毛 虫 病	problem
+尿 道 内 口 恶 性	problem
+尿 道 旁 腺 恶 性	problem
+尿 道 旁 腺 良 性	problem
+尿 道 继 发 恶 性	problem
+屈 肌 腱 自 发 性	problem
+巨 幼 红 细 胞 性	problem
+巨 细 胞 型 恶 性	problem
+巨 细 胞 病 毒 性	problem
+巨 细 胞 病 毒 病	problem
+帕 金 森 综 合 征	problem
+常 染 色 体 显 性	problem
+常 染 色 体 脆 性	problem
+常 染 色 体 隐 性	problem
+干 燥 综 合 征 性	problem
+幼 年 型 关 节 炎	problem
+幼 年 型 强 直 性	problem
+幼 年 型 特 发 性	problem
+幼 年 型 麻 痹 性	problem
+异 位 睾 丸 恶 性	problem
+异 位 错 构 瘤 性	problem
+心 理 发 育 障 碍	problem
+心 脏 继 发 恶 性	problem
+心 间 隔 先 天 性	problem
+志 贺 痢 疾 杆 菌	problem
+成 纤 维 细 胞 性	problem
+成 胶 质 细 胞 瘤	problem
+成 血 管 细 胞 性	problem
+成 软 骨 细 胞 性	problem
+成 软 骨 细 胞 瘤	problem
+扁 桃 体 柱 恶 性	problem
+扁 桃 体 柱 良 性	problem
+扁 桃 体 窝 恶 性	problem
+扁 桃 体 窝 良 性	problem
+手 术 后 化 脓 性	problem
+抗 心 磷 脂 抗 体	problem
+摄 入 植 物 毒 性	problem
+操 作 后 呼 吸 性	problem
+操 作 后 缺 氧 性	problem
+支 气 管 先 天 性	problem
+新 生 儿 中 毒 性	problem
+新 生 儿 代 谢 性	problem
+新 生 儿 化 脓 性	problem
+新 生 儿 原 发 性	problem
+新 生 儿 后 天 性	problem
+新 生 儿 吸 入 性	problem
+新 生 儿 呼 吸 性	problem
+新 生 儿 坏 死 性	problem
+新 生 儿 大 疱 性	problem
+新 生 儿 失 血 性	problem
+新 生 儿 局 灶 性	problem
+新 生 儿 感 染 性	problem
+新 生 儿 持 续 性	problem
+新 生 儿 播 散 性	problem
+新 生 儿 无 菌 性	problem
+新 生 儿 暂 时 性	problem
+新 生 儿 母 乳 性	problem
+新 生 儿 消 化 性	problem
+新 生 儿 牛 乳 性	problem
+新 生 儿 环 境 性	problem
+新 生 儿 生 理 性	problem
+新 生 儿 病 理 性	problem
+新 生 儿 短 暂 性	problem
+新 生 儿 细 菌 性	problem
+新 生 儿 脓 毒 症	problem
+新 生 儿 间 质 性	problem
+新 生 儿 顽 固 性	problem
+无 丙 种 球 蛋 白	problem
+无 包 膜 硬 化 性	problem
+无 巨 核 细 胞 性	problem
+无 机 物 质 毒 性	problem
+无 胆 色 素 尿 性	problem
+普 氏 立 克 次 体	problem
+普 通 型 流 行 性	problem
+晶 状 体 溶 解 性	problem
+晶 状 体 脱 位 性	problem
+暴 发 型 流 行 性	problem
+曼 森 裂 体 吸 虫	problem
+有 机 溶 剂 毒 性	problem
+杂 合 血 红 蛋 白	problem
+枕 叶 继 发 恶 性	problem
+枕 颈 椎 管 骨 性	problem
+棕 色 真 菌 病 性	problem
+椎 间 盘 疾 患 性	problem
+椎 间 盘 破 裂 性	problem
+椎 间 盘 移 位 性	problem
+椭 圆 形 红 细 胞	problem
+正 中 神 经 良 性	problem
+母 体 类 风 湿 性	problem
+毛 细 管 扩 张 性	problem
+气 管 继 发 恶 性	problem
+氧 化 氮 类 毒 性	problem
+氨 基 酸 缺 乏 性	problem
+沃 尔 夫 体 恶 性	problem
+沃 尔 夫 管 恶 性	problem
+泌 尿 器 官 恶 性	problem
+泌 尿 器 官 良 性	problem
+泌 尿 生 殖 器 官	problem
+法 特 壶 腹 恶 性	problem
+注 射 后 并 发 症	problem
+流 产 后 失 血 性	problem
+流 产 后 感 染 性	problem
+流 产 后 播 散 性	problem
+流 产 并 发 栓 塞	problem
+浆 细 胞 骨 髓 瘤	problem
+海 因 茨 小 体 性	problem
+海 绵 窦 非 脓 性	problem
+消 化 器 官 恶 性	problem
+消 化 系 统 良 性	problem
+淋 巴 浆 细 胞 性	problem
+淋 巴 结 反 应 性	problem
+淤 胆 型 病 毒 性	problem
+混 合 型 过 敏 性	problem
+滋 养 细 胞 恶 性	problem
+滑 车 神 经 恶 性	problem
+滑 车 神 经 良 性	problem
+潜 在 低 度 恶 性	problem
+物 质 水 平 异 常	problem
+班 氏 吴 策 线 虫	problem
+生 殖 器 官 恶 性	problem
+生 殖 器 官 肿 瘤	problem
+由 疾 病 继 发 性	problem
+甲 状 旁 腺 恶 性	problem
+甲 状 旁 腺 良 性	problem
+甲 状 腺 相 关 性	problem
+畸 胎 瘤 伴 恶 性	problem
+疱 疹 病 毒 感 染	problem
+疾 病 特 殊 筛 查	problem
+疾 病 皮 肤 试 验	problem
+病 原 体 先 天 性	problem
+病 毒 组 先 天 性	problem
+病 毒 遗 传 缺 陷	problem
+癫 痫 持 续 状 态	problem
+白 细 胞 遗 传 性	problem
+的 分 裂 情 感 性	problem
+皮 层 下 血 管 性	problem
+皮 肤 型 过 敏 性	problem
+皮 肤 继 发 恶 性	problem
+皮 质 型 老 年 性	problem
+盆 腔 器 官 损 伤	problem
+盆 腔 继 发 恶 性	problem
+盆 腔 腹 膜 恶 性	problem
+盆 腔 蜂 窝 织 炎	problem
+盐 水 和 渗 透 性	problem
+盲 肠 继 发 恶 性	problem
+直 肠 继 发 恶 性	problem
+直 肠 肛 管 恶 性	problem
+直 肠 肛 门 恶 性	problem
+眶 内 继 发 恶 性	problem
+眼 前 段 先 天 性	problem
+眼 后 段 先 天 性	problem
+眼 后 组 织 良 性	problem
+眼 球 继 发 恶 性	problem
+眼 睑 皮 肤 恶 性	problem
+眼 睑 皮 肤 良 性	problem
+眼 睑 非 感 染 性	problem
+睾 丸 继 发 恶 性	problem
+睾 丸 鞘 膜 积 液	problem
+石 油 产 品 毒 性	problem
+砌 砖 工 刺 激 性	problem
+硝 化 甘 油 毒 性	problem
+碎 裂 音 滑 膜 炎	problem
+碘 缺 乏 相 关 性	problem
+磨 牙 后 区 恶 性	problem
+磨 牙 后 区 良 性	problem
+神 经 节 细 胞 性	problem
+空 肠 继 发 恶 性	problem
+童 年 脱 抑 制 性	problem
+第 三 脑 室 良 性	problem
+第 四 脑 室 恶 性	problem
+第 四 脑 室 良 性	problem
+筛 窦 蝶 窦 恶 性	problem
+类 脂 质 渐 进 性	problem
+粒 细 胞 增 多 症	problem
+粒 细 胞 白 血 病	problem
+精 囊 继 发 恶 性	problem
+精 氨 基 琥 珀 酸	problem
+红 细 胞 增 多 性	problem
+红 细 胞 增 多 症	problem
+红 细 胞 生 成 型	problem
+纵 隔 继 发 恶 性	problem
+组 织 胞 浆 菌 病	problem
+细 支 气 管 恶 性	problem
+结 缔 组 织 疾 患	problem
+结 缔 组 织 良 性	problem
+结 肠 系 膜 恶 性	problem
+结 肠 继 发 恶 性	problem
+结 肠 肝 曲 恶 性	problem
+结 肠 肝 曲 良 性	problem
+结 肠 脾 曲 恶 性	problem
+结 肠 脾 曲 良 性	problem
+绝 经 后 萎 缩 性	problem
+绝 经 期 和 女 性	problem
+维 生 素 缺 乏 性	problem
+缺 失 伴 复 杂 性	problem
+耳 廓 非 感 染 性	problem
+肘 关 节 粘 连 性	problem
+肘 部 皮 肤 恶 性	problem
+肛 周 皮 肤 恶 性	problem
+肛 周 皮 肤 良 性	problem
+肛 管 继 发 恶 性	problem
+肛 门 皮 肤 恶 性	problem
+肝 内 胆 管 良 性	problem
+肝 外 胆 管 恶 性	problem
+肝 外 胆 管 良 性	problem
+肝 炎 伴 肝 昏 迷	problem
+上 皮	problem
+上 颌	problem
+下 颌	problem
+中 毒	problem
+中 线	problem
+乙 型	problem
+乳 头	problem
+乳 牙	problem
+乳 齿	problem
+伴 有	problem
+倾 倒	problem
+免 疫	problem
+全 身	problem
+关 系	problem
+关 节	problem
+内 脏	problem
+出 牙	problem
+出 血	problem
+分 泌	problem
+创 伤	problem
+功 能	problem
+动 脉	problem
+包 括	problem
+单 侧	problem
+压 迫	problem
+双 侧	problem
+反 应	problem
+反 流	problem
+发 育	problem
+口 区	problem
+口 腔	problem
+吸 收	problem
+呕 吐	problem
+周 围	problem
+咬 合	problem
+唾 液	problem
+喉 咽	problem
+囊 性	problem
+囊 肿	problem
+回 肠	problem
+大 小	problem
+大 肠	problem
+婴 儿	problem
+小 肠	problem
+局 部	problem
+局 限	problem
+幼 儿	problem
+幽 门	problem
+异 位	problem
+异 常	problem
+引 起	problem
+弛 缓	problem
+形 式	problem
+形 成	problem
+形 状	problem
+急 性	problem
+恶 性	problem
+慢 性	problem
+憩 室	problem
+撕 裂	problem
+斜 疝	problem
+易 激	problem
+有 关	problem
+未 定	problem
+术 后	problem
+机 能	problem
+根 尖	problem
+梗 阻	problem
+残 余	problem
+残 留	problem
+残 窦	problem
+残 胃	problem
+活 动	problem
+消 失	problem
+涎 腺	problem
+淋 巴	problem
+深 部	problem
+溃 疡	problem
+炎 性	problem
+牙 合	problem
+牙 周	problem
+牙 弓	problem
+牙 根	problem
+牙 槽	problem
+牙 面	problem
+牙 髓	problem
+牙 齿	problem
+牙 龈	problem
+特 指	problem
+状 态	problem
+狭 窄	problem
+班 蒂	problem
+球 部	problem
+生 长	problem
+男 性	problem
+疣 状	problem
+疱 疹	problem
+疼 痛	problem
+痉 挛	problem
+白 斑	problem
+白 色	problem
+皮 样	problem
+皮 肤	problem
+盆 底	problem
+盲 肠	problem
+盲 袢	problem
+直 疝	problem
+直 肠	problem
+短 肠	problem
+破 裂	problem
+硬 腭	problem
+空 肠	problem
+穿 孔	problem
+粘 液	problem
+粘 膜	problem
+纤 维	problem
+组 织	problem
+结 构	problem
+结 石	problem
+结 肠	problem
+缺 失	problem
+网 膜	problem
+肛 周	problem
+肛 管	problem
+肛 门	problem
+肝 下	problem
+肝 内	problem
+肝 周	problem
+肝 性	problem
+肝 病	problem
+肝 癌	problem
+肝 管	problem
+肝 肺	problem
+肝 肾	problem
+肝 脏	problem
+肠 代	problem
+肠 炎	problem
+股 疝	problem
+肥 大	problem
+肿 瘤	problem
+胃 底	problem
+胃 瘫	problem
+胃 肠	problem
+胆 囊	problem
+胆 管	problem
+胆 道	problem
+胰 岛	problem
+胰 性	problem
+胰 管	problem
+胰 腺	problem
+脂 肪	problem
+脐 疝	problem
+脓 肿	problem
+脾 区	problem
+腭 垂	problem
+腭 裂	problem
+腭 部	problem
+腮 腺	problem
+腹 壁	problem
+腹 泻	problem
+腹 疝	problem
+腹 腔	problem
+腹 膜	problem
+腹 部	problem
+膈 下	problem
+膈 疝	problem
+自 身	problem
+舌 下	problem
+药 物	problem
+营 养	problem
+蛋 白	problem
+血 管	problem
+角 化	problem
+贲 门	problem
+过 度	problem
+过 早	problem
+运 动	problem
+部 分	problem
+釉 质	problem
+重 型	problem
+重 症	problem
+钙 化	problem
+阑 尾	problem
+阻 性	problem
+隐 性	problem
+静 止	problem
+面 部	problem
+颊 部	problem
+颌 下	problem
+颌 骨	problem
+颏 部	problem
+颞 颌	problem
+食 管	problem
+食 道	problem
+骶 前	problem
+黄 疸	problem
+黄 色	problem
+鼻 唇	problem
+鼻 腭	problem
+齐 夫	problem
+上 动 脉	problem
+上 颌 骨	problem
+下 颌 骨	problem
+不 耐 受	problem
+中 心 性	problem
+中 毒 性	problem
+义 齿 性	problem
+习 惯 性	problem
+乳 牙 中	problem
+乳 糜 泻	problem
+亚 急 性	problem
+传 统 性	problem
+侧 斜 疝	problem
+侧 直 疝	problem
+修 复 性	problem
+出 血 性	problem
+切 口 疝	problem
+切 断 后	problem
+切 牙 管	problem
+创 伤 性	problem
+刺 激 性	problem
+前 庭 沟	problem
+功 能 性	problem
+化 学 性	problem
+化 脓 性	problem
+区 域 性	problem
+升 结 肠	problem
+单 纯 性	problem
+原 发 性	problem
+反 流 性	problem
+发 育 性	problem
+变 应 性	problem
+口 炎 性	problem
+后 天 性	problem
+吻 合 口	problem
+嗜 酸 性	problem
+回 盲 部	problem
+坏 死 性	problem
+坏 疽 性	problem
+增 生 性	problem
+增 积 物	problem
+复 发 性	problem
+复 合 性	problem
+复 杂 性	problem
+外 伤 性	problem
+多 发 性	problem
+多 生 牙	problem
+大 网 膜	problem
+小 泡 性	problem
+局 灶 性	problem
+局 限 性	problem
+嵌 顿 性	problem
+巨 细 胞	problem
+应 激 性	problem
+引 起 的	problem
+弥 漫 性	problem
+心 源 性	problem
+性 疾 病	problem
+悬 雍 垂	problem
+憩 室 病	problem
+手 术 后	problem
+括 约 肌	problem
+持 续 性	problem
+操 作 后	problem
+放 射 性	problem
+新 生 儿	problem
+机 械 性	problem
+根 尖 周	problem
+梗 阻 性	problem
+水 肿 性	problem
+沉 积 物	problem
+沙 漏 状	problem
+浅 表 性	problem
+消 化 性	problem
+消 化 道	problem
+涎 腺 管	problem
+淤 积 性	problem
+淤 血 性	problem
+混 合 型	problem
+溃 疡 性	problem
+牙 位 置	problem
+牙 冠 周	problem
+牙 本 质	problem
+牙 槽 嵴	problem
+牙 源 性	problem
+牙 萌 出	problem
+牙 釉 质	problem
+牙 骨 质	problem
+特 发 性	problem
+狭 窄 性	problem
+球 上 颌	problem
+瘢 痕 性	problem
+白 斑 点	problem
+皮 脂 腺	problem
+盆 底 肌	problem
+盲 肠 后	problem
+硬 化 性	problem
+移 行 性	problem
+粘 液 腺	problem
+糜 烂 性	problem
+紫 癜 样	problem
+纤 维 性	problem
+细 菌 性	problem
+结 肠 炎	problem
+结 节 性	problem
+绞 窄 性	problem
+继 发 性	problem
+综 合 征	problem
+综 合 症	problem
+缩 窄 性	problem
+缺 血 性	problem
+职 业 性	problem
+肉 芽 肿	problem
+肝 总 管	problem
+肝 炎 伴	problem
+肝 炎 后	problem
+肝 炎 性	problem
+肝 破 裂	problem
+肝 硬 化	problem
+肝 胆 管	problem
+肝 衰 竭	problem
+肝 静 脉	problem
+肠 急 性	problem
+肠 慢 性	problem
+肠 憩 室	problem
+肠 易 激	problem
+肠 炎 性	problem
+肠 病 性	problem
+肠 穿 孔	problem
+肠 粘 膜	problem
+肠 粘 连	problem
+肠 系 膜	problem
+肠 脂 肪	problem
+肥 厚 性	problem
+肥 大 性	problem
+胃 切 除	problem
+胃 排 空	problem
+胃 溃 疡	problem
+胃 空 肠	problem
+胃 粘 膜	problem
+胃 肠 炎	problem
+胃 肠 道	problem
+胆 囊 炎	problem
+胆 囊 管	problem
+胆 固 醇	problem
+胆 总 管	problem
+胆 汁 性	problem
+胆 源 型	problem
+胆 源 性	problem
+胆 石 性	problem
+胰 源 性	problem
+胰 腺 炎	problem
+胶 原 性	problem
+脱 屑 性	problem
+腭 正 中	problem
+腭 粘 膜	problem
+腹 内 疝	problem
+腹 股 沟	problem
+腹 腔 病	problem
+腹 膜 后	problem
+自 发 性	problem
+舌 下 腺	problem
+舌 炎 性	problem
+舌 良 性	problem
+药 物 性	problem
+萎 缩 性	problem
+蔓 延 性	problem
+蜂 窝 织	problem
+血 源 性	problem
+血 管 瘤	problem
+表 皮 样	problem
+输 入 袢	problem
+输 出 袢	problem
+边 缘 性	problem
+过 敏 性	problem
+迟 发 型	problem
+造 瘘 口	problem
+遗 传 性	problem
+酒 精 性	problem
+门 脉 性	problem
+门 静 脉	problem
+间 质 性	problem
+阑 尾 炎	problem
+阻 塞 性	problem
+陈 旧 性	problem
+降 结 肠	problem
+隐 源 性	problem
+难 复 性	problem
+颊 粘 膜	problem
+颌 下 腺	problem
+颌 炎 性	problem
+额 外 牙	problem
+颞 下 颌	problem
+饮 食 性	problem
+髁 状 突	problem
+麻 痹 性	problem
+鼻 唇 沟	problem
+龈 上 垢	problem
+龈 下 垢	problem
+上 消 化 道	problem
+上 腭 炎 性	problem
+下 消 化 道	problem
+下 颌 炎 性	problem
+不 完 全 性	problem
+乙 状 结 肠	problem
+人 工 肛 门	problem
+克 罗 恩 病	problem
+切 除 术 后	problem
+剩 余 牙 根	problem
+功 能 紊 乱	problem
+动 脉 栓 塞	problem
+十 二 指 肠	problem
+发 育 不 全	problem
+口 底 炎 性	problem
+口 腔 上 皮	problem
+口 腔 炎 性	problem
+吸 收 不 良	problem
+回 肠 粘 膜	problem
+夏 季 腹 泻	problem
+大 肠 憩 室	problem
+小 肠 储 袋	problem
+小 肠 憩 室	problem
+小 肠 结 肠	problem
+巨 细 胞 性	problem
+幽 门 不 全	problem
+惠 普 尔 病	problem
+括 约 肌 内	problem
+根 尖 周 围	problem
+残 余 牙 根	problem
+毛 细 血 管	problem
+消 化 系 统	problem
+涎 腺 良 性	problem
+淋 巴 上 皮	problem
+牙 周 外 侧	problem
+牙 硬 组 织	problem
+盆 腔 炎 性	problem
+直 肠 粘 膜	problem
+神 经 源 性	problem
+结 肠 炎 性	problem
+结 肠 造 口	problem
+肉 芽 肿 性	problem
+肛 管 炎 性	problem
+肝 旁 炎 性	problem
+肝 纤 维 化	problem
+肝 细 胞 性	problem
+肝 结 节 性	problem
+肠 憩 室 病	problem
+肠 粘 连 性	problem
+肠 道 菌 群	problem
+胃 占 位 性	problem
+胆 囊 结 石	problem
+腭 部 炎 性	problem
+腮 腺 炎 性	problem
+腹 股 沟 疝	problem
+血 吸 虫 性	problem
+迷 走 神 经	problem
+造 口 术 后	problem
+造 瘘 术 后	problem
+静 脉 曲 张	problem
+非 创 伤 性	problem
+非 感 染 性	problem
+非 手 术 性	problem
+非 热 带 性	problem
+非 牙 源 性	problem
+非 特 异 性	problem
+颊 部 炎 性	problem
+颌 出 血 性	problem
+颌 发 育 性	problem
+颌 外 生 性	problem
+颌 骨 含 牙	problem
+颌 骨 始 基	problem
+颌 骨 炎 性	problem
+颏 部 瘘 管	problem
+颞 颌 关 节	problem
+食 管 黏 膜	problem
+龈 上 牙 石	problem
+龈 下 牙 石	problem
+克 罗 恩 病 性	problem
+单 侧 嵌 顿 性	problem
+单 侧 滑 动 性	problem
+单 侧 绞 窄 性	problem
+单 侧 难 复 性	problem
+双 侧 滑 动 性	problem
+嗜 酸 细 胞 性	problem
+坐 骨 直 肠 窝	problem
+大 肠 憩 室 病	problem
+奥 迪 括 约 肌	problem
+宗 教 仪 式 性	problem
+成 人 肥 厚 性	problem
+无 牙 牙 槽 嵴	problem
+根 尖 周 组 织	problem
+淋 巴 细 胞 性	problem
+热 带 口 炎 性	problem
+牙 齿 病 理 性	problem
+牙 龈 化 脓 性	problem
+碳 水 化 合 物	problem
+肠 造 口 术 后	problem
+腹 股 沟 斜 疝	problem
+自 身 免 疫 性	problem
+蛋 白 丢 失 性	problem
+门 脉 高 压 性	problem
+颌 动 脉 瘤 性	problem
+颌 骨 放 射 性	problem
+颌 骨 牙 源 性	problem
+食 管 隆 起 性	problem
+十 二 指 肠 溃 疡	problem
+嗜 酸 粒 细 胞 性	problem
+回 盲 部 粘 液 性	problem
+小 肠 造 口 术 后	problem
+结 肠 造 口 术 后	problem
+胃 肠 吻 合 术 后	problem
+静 脉 血 栓 形 成	problem

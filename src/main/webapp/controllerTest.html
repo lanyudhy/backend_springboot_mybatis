@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+<script src="public/lib/jquery/1.12.3/jquery.js"></script>
+<script type="text/javascript">
+//jQuery doesn't encode Javascript objects into JSON automatically, you need to do it manually with JSON.stringify(): 
+$.ajax({
+    type: "POST",
+   url: "component/add/lib/resource",
+   data: JSON.stringify(
+		   {"resourceId":6,"contentStr":"D:\\attribute.dict"}
+		),
+// 	data: JSON.stringify([{id: null, cohortDefinitionId: 697, varName: "AGE", varType: "NUM", independent: "N", query: "SELECT P.PERSON_ID, (2016-YEAR_OF_BIRTH) AS VAR FROM PERSON P"},
+// 	                      {id: null, cohortDefinitionId: 697, varName: "GENDER", varType: "TYPE", independent: "N",query:"SELECT PERSON_ID , CASE WHEN C.CONCEPT_NAME = 'MALE' THEN 'Y' ELSE 'N' END AS VAR FROM PERSON P LEFT JOIN CONCEPT C ON P.GENDER_CONCEPT_ID = C.CONCEPT_ID"},
+// 						{id: null, cohortDefinitionId: 697, varName: "HAS_CONDITION", varType: "TYPE", independent: "Y",query:"SELECT PERSON_ID ,MAX(FLAG) AS VAR FROM (SELECT PERSON_ID , CASE WHEN CONDITION_CONCEPT_ID IN (445803,440029,192278) THEN 'Y' ELSE 'N' END AS FLAG FROM CONDITION_OCCURRENCE) GROUP BY PERSON_ID"}]),
+//  	data: JSON.stringify({advAnalysisId:614, type:"MATCHING", name:"PROPENSITY_SCORE_MATCHED", matchRatio:4, variables:"{841:\"AGE\",842:\"GENDER\"}"}),
+//	data: JSON.stringify([{advAnalysisId:613, type:"ANALYSIS", name:"COX_RISK_CALCULATION", matchRatio:4, variables:"{840:\"TIME\",839:\"HAS_CONDITION\"}"}]),
+// 	{advAnalysisId:432, type:"ANALYSIS", name:"RISK_CURVE_CALCULATION", matchRatio:4, variables:"{301:\"TIME\",302:\"HAS_CONDITION\"}"},
+// 	{advAnalysisId:432, type:"ANALYSIS", name:"COX_RISK_CALCULATION", matchRatio:4, variables:"{301:\"TIME\",302:\"HAS_CONDITION\"}"}]),
+//	dataType : 'json',
+	headers: { 
+	     'Accept': 'application/json',
+	     'Content-Type': 'application/json' 
+	},
+	success : function(data) { 
+		console.log(data);
+	}
+});
+</script>
+</html>

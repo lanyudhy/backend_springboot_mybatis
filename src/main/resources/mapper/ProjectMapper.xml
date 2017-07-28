@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hebta.plato.dao.ProjectMapper">
+  <resultMap id="BaseResultMap" type="com.hebta.plato.pojo.Project">
+    <result column="ID" jdbcType="BIGINT" property="id" />
+    <result column="NAME" jdbcType="VARCHAR" property="name" />
+    <result column="TYPE" jdbcType="INTEGER" property="type" />
+    <result column="DESCRIPTION" jdbcType="VARCHAR" property="description" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="STATUS" jdbcType="INTEGER" property="status" />
+  </resultMap>
+  <insert id="insertSelective" parameterType="com.hebta.plato.pojo.Project">
+  	<selectKey keyProperty="id" resultType="long" order="BEFORE">
+         select PROJECT_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into PROJECT 
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        ID,
+      </if>
+      <if test="name != null">
+        NAME,
+      </if>
+      <if test="type != null">
+        TYPE,
+      </if>
+      <if test="description != null">
+        DESCRIPTION,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        #{id,jdbcType=BIGINT},
+      </if>
+      <if test="name != null">
+        #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="type != null">
+        #{type,jdbcType=INTEGER},
+      </if>
+      <if test="description != null">
+        #{description,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <select id="selectMyProjectsByType" resultMap="BaseResultMap">
+    select p.ID, p.NAME, p.TYPE, p.DESCRIPTION, p.CREATED_TIME, p.STATUS from PROJECT p JOIN USER_PROJECT up
+    ON p.ID = up.PROJECT_ID
+    where up.USER_ID = #{userId,jdbcType=BIGINT} and p.TYPE = #{type,jdbcType=INTEGER}
+    and up.PROJECT_OWNER = 1
+    order by p.CREATED_TIME desc
+  </select>
+  <select id="selectSharedCorpusProjects" parameterType="java.lang.Long" resultMap="BaseResultMap">
+    select p.ID, p.NAME, p.TYPE, p.DESCRIPTION, p.CREATED_TIME from PROJECT p JOIN USER_PROJECT up
+    ON p.ID = up.PROJECT_ID
+    where up.USER_ID = #{userId,jdbcType=BIGINT} and p.TYPE = 1
+    and up.PROJECT_OWNER = 0
+    order by p.CREATED_TIME desc
+  </select> 
+  <select id="selectAllCorpusProjects" parameterType="java.lang.Long" resultMap="BaseResultMap">
+    select p.ID, p.NAME, p.TYPE, p.DESCRIPTION, p.CREATED_TIME, p.STATUS from PROJECT p JOIN USER_PROJECT up
+    ON p.ID = up.PROJECT_ID
+    where up.USER_ID = #{userId,jdbcType=BIGINT} and p.TYPE = 1
+  </select>  
+  <select id="selectByIds" parameterType="java.util.List" resultMap="BaseResultMap">
+  	SELECT ID, NAME, TYPE, DESCRIPTION, CREATED_TIME FROM PROJECT WHERE ID IN
+  	<foreach collection="list" item="item" index="index" open="(" separator="," close=")"> 
+		#{item}
+	</foreach>
+	order by CREATED_TIME desc
+  </select>
+  <select id="selectById" parameterType="java.lang.Long" resultMap="BaseResultMap">
+  	SELECT ID, NAME, TYPE, DESCRIPTION, CREATED_TIME, STATUS FROM PROJECT WHERE ID = #{id,jdbcType=BIGINT}
+  </select>
+  <update id="updateName" parameterType="com.hebta.plato.pojo.Project">
+    update PROJECT
+    set NAME = #{name,jdbcType=VARCHAR}
+    where ID = #{id,jdbcType=BIGINT}
+  </update>
+  <update id="updateStatus" parameterType="com.hebta.plato.pojo.Project">
+    update PROJECT
+    set STATUS = #{status,jdbcType=INTEGER}
+    where ID = #{id,jdbcType=BIGINT}
+  </update>
+  <delete id="batchDelete" parameterType="java.util.List">
+    delete from PROJECT
+    where ID in 
+    <foreach collection="list" item="item" index="index" open="(" separator="," close=")"> 
+		#{item}
+	</foreach>
+  </delete>
+</mapper>

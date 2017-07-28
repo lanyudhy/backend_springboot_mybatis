@@ -1,0 +1,31 @@
+无 明 显 诱 因	pseNegPhrases
+无 诱 因 出 现	pseNegPhrases
+无 明 显 变 化	pseNegPhrases
+无 特 殊 不 适	pseNegPhrases
+不 除 外	pseNegPhrases
+无 明 显 改 变	pseNegPhrases
+不 全	pseNegPhrases
+无	negPhrases
+不	negPhrases
+未	negPhrases
+未 见	negPhrases
+否 认	negPhrases
+不 伴	negPhrases
+未 触 及	negPhrases
+未 闻 及	negPhrases
+未 触 及	negPhrases
+未 扪 及	negPhrases
+未 见 异 常	postNegPhrases
+未 见	postNegPhrases
+无	postNegPhrases
+不	postNegPhrases
+不 详	postNegPhrases
+未 查	postNegPhrases
+未 及	postNegPhrases
+未 触 及	postNegPhrases
+未 闻 及	postNegPhrases
+未 们 及	postNegPhrases
+未 引 出	postNegPhrases
+，	conjunctions
+；	conjunctions
+。	conjunctions

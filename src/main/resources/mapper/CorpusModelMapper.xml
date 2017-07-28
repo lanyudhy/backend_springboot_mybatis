@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hebta.plato.dao.CorpusModelMapper">
+  <resultMap id="CorpusModelBaseResultMap" type="com.hebta.plato.pojo.CorpusModel">
+    <result column="MODEL_ID" jdbcType="BIGINT" property="modelId" />
+    <result column="MODEL_NAME" jdbcType="VARCHAR" property="modelName" />
+    <result column="JAR_FILE" jdbcType="BLOB" property="jarFile" />
+    <result column="TRAINING_LOG" jdbcType="CLOB" property="trainingLog" />
+    <result column="CORPUS_ID" jdbcType="BIGINT" property="corpusId" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="CREATED_BY" jdbcType="VARCHAR" property="createdBy" />
+  </resultMap>
+  <resultMap id="ModelOutputBaseResultMap" type="com.hebta.plato.pojo.ModelOutput">
+    <result column="FILE_ID" jdbcType="BIGINT" property="fileId" />
+    <result column="MODEL_ID" jdbcType="BIGINT" property="modelId" />
+    <result column="CORPUS_ID" jdbcType="BIGINT" property="corpusId" />
+    <result column="FILE_NAME" jdbcType="VARCHAR" property="fileName" />
+    <result column="FILE_TYPE" jdbcType="VARCHAR" property="fileType" />
+    <result column="ENCODER" jdbcType="VARCHAR" property="encoder" />
+    <result column="XMI_CONTENT" jdbcType="CLOB" property="xmiContent" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="CREATED_BY" jdbcType="VARCHAR" property="createdBy" />
+  </resultMap>
+  
+  <insert id="insertCorpusModel" parameterType="com.hebta.plato.pojo.CorpusModel">
+  	<selectKey keyProperty="modelId" resultType="long" order="BEFORE">
+         select CORPUS_MODEL_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into CORPUS_MODEL (MODEL_ID, MODEL_NAME, JAR_FILE, TRAINING_LOG, CORPUS_ID, CREATED_TIME, CREATED_BY)
+    values (#{modelId,jdbcType=BIGINT}, #{modelName,jdbcType=VARCHAR},
+    	#{jarFile,jdbcType=BLOB}, #{trainingLog,jdbcType=CLOB},#{corpusId,jdbcType=BIGINT},
+    	#{createdTime,jdbcType=TIMESTAMP}, #{createdBy,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertModelOutput" parameterType="com.hebta.plato.pojo.ModelOutput">
+  	<selectKey keyProperty="fileId" resultType="long" order="BEFORE">
+         select MODEL_OUTPUT_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into MODEL_OUTPUT (FILE_ID, MODEL_ID, CORPUS_ID, FILE_NAME, FILE_TYPE, ENCODER, XMI_CONTENT, CREATED_TIME, CREATED_BY)
+    values (#{fileId,jdbcType=BIGINT}, #{modelId,jdbcType=BIGINT}, #{corpusId,jdbcType=BIGINT}, #{fileName,jdbcType=VARCHAR},
+    	#{fileType,jdbcType=VARCHAR}, #{encoder,jdbcType=VARCHAR}, #{xmiContent,jdbcType=CLOB},
+    	#{createdTime,jdbcType=TIMESTAMP}, #{createdBy,jdbcType=VARCHAR})
+  </insert>
+  
+  <select id="selectCorpusModelByCorpusId" resultMap="CorpusModelBaseResultMap" parameterType="java.lang.Long" >
+    select * from CORPUS_MODEL
+    where CORPUS_ID = #{corpusId,jdbcType=BIGINT} order by MODEL_ID desc
+  </select>
+  <select id="selectModelOutputByModelId" resultMap="ModelOutputBaseResultMap" parameterType="java.lang.Long" >
+    select * from MODEL_OUTPUT
+    where MODEL_ID = #{modelId,jdbcType=BIGINT}
+  </select>
+  
+  <select id="selectCorpusModelByPrimaryKey" resultMap="CorpusModelBaseResultMap" parameterType="java.lang.Long" >
+    select * from CORPUS_MODEL
+    where MODEL_ID = #{modelId,jdbcType=BIGINT}
+  </select>
+  <select id="selectModelOutputByPrimaryKey" resultMap="ModelOutputBaseResultMap" parameterType="java.lang.Long" >
+    select * from MODEL_OUTPUT
+    where FILE_ID = #{fileId,jdbcType=BIGINT}
+  </select>
+  
+  <select id="selectModelOutputWithPagination" resultType="com.hebta.plato.dto.FileNameToType">
+  	select FILE_ID as fileId, FULL_NAME as fullName, 'xmi' as type from (
+	    select FILE_ID, FILE_NAME||'.'||FILE_TYPE as FULL_NAME, ROWNUM as rn from MODEL_OUTPUT
+	    where MODEL_ID = ${modelId}
+	    order by FILE_ID desc
+	) where rn between  ((${page} - 1) * ${countPerPage} +1) AND (${page} * ${countPerPage})
+  </select>
+  <select id="selectTotalCountModelOutputByModelId" resultType="java.lang.Integer">
+    select COUNT(*) from MODEL_OUTPUT
+    where MODEL_ID = #{modelId,jdbcType=BIGINT}
+  </select>
+  
+  <delete id="deleteCorpusModelByModelId" parameterType="java.lang.Long">
+    delete from CORPUS_MODEL
+    where MODEL_ID = #{modelId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteCorpusModelByCorpusId" parameterType="java.lang.Long">
+    delete from CORPUS_MODEL
+    where CORPUS_ID = #{corpusId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteModelOutputByFileId" parameterType="java.lang.Long">
+    delete from MODEL_OUTPUT
+    where FILE_ID = #{fileId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteModelOutputByModelId" parameterType="java.lang.Long">
+    delete from MODEL_OUTPUT
+    where MODEL_ID = #{modelId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteModelOutputByCorpusId" parameterType="java.lang.Long">
+    delete from MODEL_OUTPUT
+    where CORPUS_ID = #{corpusId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteModelOutputFiles" parameterType="java.util.List">
+    delete from MODEL_OUTPUT
+    where FILE_ID in
+    <foreach item="item" index="index" collection="list" open="(" separator="," close=")"> 
+		#{item} 
+	</foreach>
+  </delete>
+  
+  <select id="selectModelOutputByFileIds" parameterType="java.util.List" resultMap="ModelOutputBaseResultMap">
+    select * from MODEL_OUTPUT
+    where FILE_ID in
+    <foreach item="item" index="index" collection="list" open="(" separator="," close=")"> 
+		#{item} 
+	</foreach>
+  </select>
+  
+  <update id="updateModelJarFileByModelId" parameterType="com.hebta.plato.pojo.CorpusModel">
+    update CORPUS_MODEL 
+    <set>
+	    <if test="jarFile != null">
+    		JAR_FILE = #{jarFile,jdbcType=BLOB},
+    	</if>
+    	<if test="trainingLog != null">
+    		TRAINING_LOG = #{trainingLog,jdbcType=CLOB},
+    	</if>
+    </set>
+    WHERE MODEL_ID = #{modelId,jdbcType=BIGINT}
+  </update>
+</mapper>

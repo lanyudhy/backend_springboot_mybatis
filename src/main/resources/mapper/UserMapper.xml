@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hebta.plato.dao.UserMapper">
+  <resultMap id="BaseResultMap" type="com.hebta.plato.pojo.User">
+    <id column="ID" jdbcType="BIGINT" property="id" />
+    <result column="LOGIN_NAME" jdbcType="VARCHAR" property="loginName" />
+    <result column="PASSWORD" jdbcType="VARCHAR" property="password" />
+    <result column="EMAIL" jdbcType="VARCHAR" property="email" />
+    <result column="MOBILE" jdbcType="VARCHAR" property="mobile" />
+    <result column="IS_AMDIN" jdbcType="INTEGER" property="isAdmin" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+  </resultMap>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Long" >
+    select * from USER_INFO
+    where ID = #{id,jdbcType=BIGINT}
+  </select>
+  <select id="selectByLoginName" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select * from USER_INFO
+    where LOGIN_NAME = #{loginName,jdbcType=VARCHAR}
+  </select>
+  <select id="selectAll" resultMap="BaseResultMap">
+    select * from USER_INFO
+  </select>
+  <insert id="insert" parameterType="com.hebta.plato.pojo.User">
+  	<selectKey keyProperty="id" resultType="long" order="BEFORE">
+         select USER_INFO_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into USER_INFO (ID, LOGIN_NAME, PASSWORD, EMAIL, MOBILE)
+    values (#{id,jdbcType=BIGINT}, #{loginName,jdbcType=VARCHAR}, #{password,jdbcType=VARCHAR}, 
+    	#{email,jdbcType=VARCHAR}, #{mobile,jdbcType=VARCHAR})
+  </insert>
+  <update id="update" parameterType="com.hebta.plato.pojo.User">
+    update USER_INFO
+    <set>
+      <if test="password != null">
+        PASSWORD = #{password,jdbcType=VARCHAR},
+      </if>
+      <if test="email != null">
+        EMAIL = #{email,jdbcType=VARCHAR},
+      </if>
+      <if test="mobile != null">
+        MOBILE = #{mobile,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where ID = #{id,jdbcType=BIGINT}
+  </update>
+  <delete id="batchDelete" parameterType="java.util.List">
+    delete from USER_INFO
+    where ID in 
+    <foreach collection="list" item="item" index="index" open="(" separator="," close=")"> 
+		#{item}
+	</foreach>
+  </delete>
+</mapper>

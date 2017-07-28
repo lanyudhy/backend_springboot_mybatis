@@ -1,0 +1,200 @@
+无	negation
+否 认	negation
+未 见	negation
+心 脏	bodyloc
+不	negation
+未 闻 及	negation
+肝	bodyloc
+心 尖	bodyloc
+下 腹	bodyloc
+未 触 及	negation
+双 下 肢	bodyloc
+肺	bodyloc
+双 肺	bodyloc
+房 间 隔	bodyloc
+未 及	negation
+瞳 孔	bodyloc
+心 包	bodyloc
+四 肢	bodyloc
+心 前 区	bodyloc
+脊 柱	bodyloc
+肋 下	bodyloc
+颈	bodyloc
+脾	bodyloc
+颈 静 脉	bodyloc
+甲 状 腺	bodyloc
+左 锁 骨	bodyloc
+肛 门	bodyloc
+气 管	bodyloc
+头 颅	bodyloc
+咽	bodyloc
+外 生 殖 器	bodyloc
+未 引 出	negation
+扁 桃 体	bodyloc
+双 肾	bodyloc
+双 肾 区	bodyloc
+浅 表 淋 巴 结	bodyloc
+二 尖 瓣	bodyloc
+阴 性	negation
+胸 廓	bodyloc
+瓣 膜	bodyloc
+全 腹	bodyloc
+两 肺	bodyloc
+第 5 肋 间	bodyloc
+皮 肤 黏 膜	bodyloc
+肺 动 脉	bodyloc
+待 查	certainty
+血 管	bodyloc
+胆 囊	bodyloc
+室 间 隔	bodyloc
+皮 肤	bodyloc
+口 唇	bodyloc
+胃	bodyloc
+肠 道	bodyloc
+轻 度	severity
+胸 骨 左 缘	bodyloc
+肺 动 脉 瓣	bodyloc
+第 五 肋 间	bodyloc
+冠 状 动 脉	bodyloc
+主 动 脉 瓣	bodyloc
+颈 动 脉	bodyloc
+剑 突 下	bodyloc
+上 腹 部	bodyloc
+三 尖 瓣	bodyloc
+浅 表	bodyloc
+心 室	bodyloc
+巩 膜	bodyloc
+左 室	bodyloc
+口 角	bodyloc
+肝 总 管 末 端	bodyloc
+口 腔 粘 膜	bodyloc
+下 壁 心 肌	bodyloc
+极 高 危	severity
+鼻 旁 窦	bodyloc
+鼻 中 隔	bodyloc
+胆 总 管	bodyloc
+肝 右 叶	bodyloc
+眼 结 膜	bodyloc
+支 气 管	bodyloc
+外 耳 道	bodyloc
+后 颈 部	bodyloc
+主 动 脉	bodyloc
+重 度	severity
+微 量	severity
+不 伴	negation
+反 复	frequency
+全 天	frequency
+偶 见	frequency
+腹 部	bodyloc
+腹 腔	bodyloc
+腹 肌	bodyloc
+胆 道	bodyloc
+肝 脾	bodyloc
+眼 睑	bodyloc
+手 掌	bodyloc
+心 肌	bodyloc
+关 节	bodyloc
+上 腹	bodyloc
+肾	bodyloc
+唇	bodyloc
+5 天	time
+3 天 前	time
+3 月	time
+3 级	severity
+3 / 6 级	severity
+20 余 年	time
+2 年	time
+1 月 前	time
+1 月 余	time
+1 级	severity
+第 二 、 三 肋 间	bodyloc
+左 侧 颜 面 部	bodyloc
+容 易 发 生	frequency
+腹 壁 静 脉	bodyloc
+左 胸 前 区	bodyloc
+外 耳 道 鼻	bodyloc
+四 肢 肢 端	bodyloc
+出 生 后 3 月	time
+不 明 显	severity
+未 扪 及	negation
+颜 面 部	bodyloc
+胸 前 区	bodyloc
+肝 上 界	bodyloc
+球 结 膜	bodyloc
+总 动 脉	bodyloc
+心 血 管	bodyloc
+左 侧 胸	bodyloc
+小 拇 指	bodyloc
+室 间 膈	bodyloc
+右 锁 骨	bodyloc
+右 上 腹	bodyloc
+两 侧 膝	bodyloc
+自 幼	time
+数 天	time
+数 周	time
+一 周	time
+局 部	severity
+大 量	severity
+反 复	severity
+加 重	severity
+中 危	severity
+Ⅰ 级	severity
+频 繁	frequency
+突 发	frequency
+偶 有	frequency
+一 次	frequency
+食 道	bodyloc
+食 管	bodyloc
+阴 道	bodyloc
+锁 骨	bodyloc
+膝 盖	bodyloc
+背 部	bodyloc
+肩 胛	bodyloc
+肢 端	bodyloc
+肝 区	bodyloc
+眼 球	bodyloc
+牙 龈	bodyloc
+心 界	bodyloc
+心 房	bodyloc
+左 房	bodyloc
+外 阴	bodyloc
+右 房	bodyloc
+双 手	bodyloc
+双 乳	bodyloc
+动 脉	bodyloc
+冠 脉	bodyloc
+乳 突	bodyloc
+下 肢	bodyloc
+第 2 日	time
+Ⅱ - Ⅲ 级	severity
+稍	severity
+脑	bodyloc
+心	bodyloc
+IV 级	severity
+8 年 前	time
+8 年	time
+6 小 时	time
+6 年	time
+44 年 余	time
+40 余 年	time
+4 月 前	time
+4 月	time
+4 年	time
+3 个 月 前	time
+3 月 前	time
+3 年	time
+3 天	time
+21 年	time
+20 年 前	time
+20 支 / 天	frequency
+20 年	time
+2 年 前	time
+18 年	time
+14 岁	time
+10 余 年	time
+1 年 前	time
+1 年 余	time
+1 周 前	time
+1 周	time
+1 / 6 级	severity
+不 详	negation

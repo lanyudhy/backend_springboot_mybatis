@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hebta.plato.dao.ComponentMapper">
+  <resultMap id="ComponentGroupBaseResultMap" type="com.hebta.plato.pojo.ComponentGroup">
+    <result column="GROUP_ID" jdbcType="BIGINT" property="groupId" />
+    <result column="GROUP_NAME" jdbcType="VARCHAR" property="groupName" />
+  </resultMap>
+  <resultMap id="ComponentBaseResultMap" type="com.hebta.plato.pojo.Component">
+    <result column="COMPONENT_ID" jdbcType="BIGINT" property="componentId" />
+    <result column="COMPONENT_NAME" jdbcType="VARCHAR" property="componentName" />
+    <result column="GROUP_ID" jdbcType="BIGINT" property="groupId" />
+    <result column="PIPELINE_ID" jdbcType="BIGINT" property="pipelineId" />
+    <result column="SEQUENCE_NUM" jdbcType="INTEGER" property="sequenceNum" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="CREATED_BY" jdbcType="VARCHAR" property="createdBy" />
+    <result column="COMPONENT_LIB_ID" jdbcType="BIGINT" property="componentLibId" />
+  </resultMap>
+  <resultMap id="ComponentResourceBaseResultMap" type="com.hebta.plato.pojo.ComponentResource">
+    <result column="RESOURCE_ID" jdbcType="BIGINT" property="resourceId" />
+    <result column="RESOURCE_NAME" jdbcType="VARCHAR" property="resourceName" />
+    <result column="COMPONENT_ID" jdbcType="BIGINT" property="componentId" />
+    <result column="TYPE" jdbcType="VARCHAR" property="type" />
+    <result column="CONTENT" jdbcType="BLOB" property="content" />
+    <result column="EDITABLE" jdbcType="BIGINT" property="editable" />
+    <result column="PIPELINE_ID" jdbcType="BIGINT" property="pipelineId" />
+    <result column="CREATED_TIME" jdbcType="TIMESTAMP" property="createdTime" />
+    <result column="CREATED_BY" jdbcType="VARCHAR" property="createdBy" />
+  </resultMap>
+  <resultMap id="ComponentLibBaseResultMap" type="com.hebta.plato.pojo.Component">
+    <result column="COMPONENT_ID" jdbcType="BIGINT" property="componentId" />
+    <result column="COMPONENT_NAME" jdbcType="VARCHAR" property="componentName" />
+    <result column="GROUP_ID" jdbcType="BIGINT" property="groupId" />
+  </resultMap>
+  <resultMap id="ComponentResourceLibBaseResultMap" type="com.hebta.plato.pojo.ComponentResource">
+    <result column="RESOURCE_ID" jdbcType="BIGINT" property="resourceId" />
+    <result column="RESOURCE_NAME" jdbcType="VARCHAR" property="resourceName" />
+    <result column="COMPONENT_ID" jdbcType="BIGINT" property="componentId" />
+    <result column="TYPE" jdbcType="VARCHAR" property="type" />
+    <result column="CONTENT" jdbcType="BLOB" property="content" />
+    <result column="EDITABLE" jdbcType="BIGINT" property="editable" />
+  </resultMap>
+  <resultMap id="ComponentRelationResultMap" type="com.hebta.plato.pojo.ComponentRelation">
+    <result column="COMPONENT_LIB_ID" jdbcType="BIGINT" property="componentLibId" />
+    <result column="PARENT_COMPONENT_LIB_ID" jdbcType="BIGINT" property="parentComponentLibId" />
+  </resultMap>
+  
+  <insert id="insertComponentGroup" parameterType="com.hebta.plato.pojo.ComponentGroup">
+  	<selectKey keyProperty="groupId" resultType="long" order="BEFORE">
+         select COMPONENT_GROUP_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into COMPONENT_GROUP (GROUP_ID, GROUP_NAME)
+    values (#{groupId,jdbcType=BIGINT}, #{groupName,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertComponent" parameterType="com.hebta.plato.pojo.Component">
+  	<selectKey keyProperty="componentId" resultType="long" order="BEFORE">
+         select COMPONENT_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into COMPONENT (COMPONENT_ID, COMPONENT_NAME, GROUP_ID, PIPELINE_ID, SEQUENCE_NUM, CREATED_TIME, CREATED_BY, COMPONENT_LIB_ID)
+    values (#{componentId,jdbcType=BIGINT}, #{componentName,jdbcType=VARCHAR}, 
+    	#{groupId,jdbcType=BIGINT}, #{pipelineId,jdbcType=BIGINT}, #{sequenceNum,jdbcType=INTEGER},
+    	#{createdTime,jdbcType=TIMESTAMP}, #{createdBy,jdbcType=VARCHAR}, #{componentLibId,jdbcType=BIGINT})
+  </insert>
+  <insert id="insertComponentResource" parameterType="com.hebta.plato.pojo.ComponentResource">
+  	<selectKey keyProperty="resourceId" resultType="long" order="BEFORE">
+         select COMPONENT_RESOURCE_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into COMPONENT_RESOURCE (RESOURCE_ID, RESOURCE_NAME, COMPONENT_ID, TYPE, CONTENT, EDITABLE, PIPELINE_ID, CREATED_TIME, CREATED_BY)
+    values (#{resourceId,jdbcType=BIGINT}, #{resourceName,jdbcType=VARCHAR}, #{componentId,jdbcType=BIGINT}, 
+    	#{type,jdbcType=VARCHAR}, #{content,jdbcType=BLOB}, #{editable,jdbcType=BIGINT}, #{pipelineId,jdbcType=BIGINT},
+    	#{createdTime,jdbcType=TIMESTAMP}, #{createdBy,jdbcType=VARCHAR})
+  </insert>
+  <insert id="batchInsertComponentResource" parameterType="java.util.List">
+  	<selectKey keyProperty="resourceId" resultType="long" order="BEFORE">
+         select COMPONENT_RESOURCE_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into COMPONENT_RESOURCE (RESOURCE_ID, RESOURCE_NAME, COMPONENT_ID, TYPE, CONTENT, EDITABLE, PIPELINE_ID, CREATED_TIME, CREATED_BY)
+    select  COMPONENT_RESOURCE_SEQUENCE.NEXTVAL, A.*  from ( 
+    <foreach collection="list" item="item" index="index" separator="union all" > 
+	  select #{item.resourceName,jdbcType=VARCHAR}, #{item.componentId,jdbcType=BIGINT}, 
+    	#{item.type,jdbcType=VARCHAR}, #{item.content,jdbcType=BLOB}, #{item.editable,jdbcType=BIGINT}, #{item.pipelineId,jdbcType=BIGINT},
+    	#{item.createdTime,jdbcType=TIMESTAMP}, #{item.createdBy,jdbcType=VARCHAR} from dual
+    </foreach>) A
+  </insert>
+  <insert id="insertComponentLib" parameterType="com.hebta.plato.pojo.Component">
+  	<selectKey keyProperty="componentId" resultType="long" order="BEFORE">
+         select CPT_LIB_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into COMPONENT_Lib (COMPONENT_ID, COMPONENT_NAME, GROUP_ID)
+    values (#{componentId,jdbcType=BIGINT}, #{componentName,jdbcType=VARCHAR}, #{groupId,jdbcType=BIGINT})
+  </insert>
+  <insert id="insertComponentResourceLib" parameterType="com.hebta.plato.pojo.ComponentResource">
+    <selectKey keyProperty="resourceId" resultType="long" order="BEFORE">
+         select CPT_RESOURCE_LIB_SEQUENCE.nextval from dual
+    </selectKey>
+    insert into COMPONENT_RESOURCE_Lib (RESOURCE_ID, RESOURCE_NAME, COMPONENT_ID, TYPE, CONTENT, EDITABLE)
+    values (#{resourceId,jdbcType=BIGINT}, #{resourceName,jdbcType=VARCHAR}, #{componentId,jdbcType=BIGINT}, 
+    	#{content,jdbcType=BLOB}, #{type,jdbcType=VARCHAR}, #{editable,jdbcType=BIGINT})
+  </insert>
+  
+  <select id="selectComponentGroupByPrimaryKey" resultMap="ComponentGroupBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT_GROUP
+    where GROUP_ID = #{groupId,jdbcType=BIGINT}
+  </select>
+  <select id="selectComponentByPrimaryKey" resultMap="ComponentBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT
+    where COMPONENT_ID = #{componentId,jdbcType=BIGINT}
+  </select>
+  <select id="selectComponentResourceByPrimaryKey" resultMap="ComponentResourceBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT_RESOURCE
+    where RESOURCE_ID = #{resourceId,jdbcType=BIGINT}
+  </select>
+  <select id="selectComponentLibByPrimaryKey" resultMap="ComponentLibBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT_LIB
+    where COMPONENT_ID = #{componentId,jdbcType=BIGINT}
+  </select>
+  <select id="selectComponentResourceLibByPrimaryKey" resultMap="ComponentResourceLibBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT_RESOURCE_LIB
+    where RESOURCE_ID = #{resourceId,jdbcType=BIGINT}
+  </select>
+  <select id="selectComponentByGroupId" resultMap="ComponentBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT
+    where GROUP_ID = #{groupId,jdbcType=BIGINT}
+  </select>
+  <select id="selectComponentResourceByComponentId" resultMap="ComponentResourceBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT_RESOURCE
+    where COMPONENT_ID = #{componentId,jdbcType=BIGINT}
+    order by RESOURCE_ID asc
+  </select>
+  <select id="selectComponentResourceLibByComponentId" resultMap="ComponentResourceLibBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT_RESOURCE_LIB
+    where COMPONENT_ID = #{componentId,jdbcType=BIGINT}
+    order by RESOURCE_ID asc
+  </select>
+  
+  <update id="updateComponentGroupByPrimaryKey" parameterType="com.hebta.plato.pojo.ComponentGroup">
+    update COMPONENT_GROUP set GROUP_NAME = #{groupName,jdbcType=VARCHAR}
+    where GROUP_ID = #{groupId,jdbcType=BIGINT}
+  </update>
+  <update id="updateComponentByPrimaryKey" parameterType="com.hebta.plato.pojo.Component">
+    update COMPONENT set COMPONENT_NAME = #{componentName,jdbcType=VARCHAR}
+    where COMPONENT_ID = #{componentId,jdbcType=BIGINT}
+  </update>
+  <update id="updateComponentResourceByPrimaryKey" parameterType="com.hebta.plato.pojo.ComponentResource">
+    update COMPONENT_RESOURCE 
+    set CONTENT = #{content,jdbcType=BLOB}
+    WHERE RESOURCE_ID = #{resourceId,jdbcType=BIGINT}
+  </update>
+  <update id="updateComponentResourceLibByPrimaryKey" parameterType="com.hebta.plato.pojo.ComponentResource">
+    update COMPONENT_RESOURCE_LIB 
+    set CONTENT = #{content,jdbcType=BLOB}
+    WHERE RESOURCE_ID = #{resourceId,jdbcType=BIGINT}
+  </update>
+  
+  <select id="selectAllComponentLib" resultMap="ComponentLibBaseResultMap">
+    select * from COMPONENT_Lib order by COMPONENT_ID asc
+  </select>
+  <select id="selectComponentByPipelineId" resultMap="ComponentBaseResultMap" parameterType="java.lang.Long" >
+    select * from COMPONENT where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT} order by SEQUENCE_NUM asc
+  </select>
+  <select id="selectMaxSeqByPipelineId" resultType="java.lang.Integer" parameterType="java.lang.Long" >
+    select max(SEQUENCE_NUM) from COMPONENT where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+  </select>
+  
+  <delete id="deleteComponentResourceByPipelineId" parameterType="java.lang.Long">
+    delete from COMPONENT_RESOURCE
+    where COMPONENT_ID in 
+    (select COMPONENT_ID from COMPONENT where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT})
+  </delete>
+  <delete id="deleteComponentByPipelineId" parameterType="java.lang.Long">
+    delete from COMPONENT
+    where PIPELINE_ID = #{pipelineId,jdbcType=BIGINT}
+  </delete>
+  
+  <delete id="deleteComponentResourceByComponentId" parameterType="java.lang.Long">
+    delete from COMPONENT_RESOURCE
+    where COMPONENT_ID = #{componentId,jdbcType=BIGINT}
+  </delete>
+  <delete id="deleteComponentByComponentId" parameterType="java.lang.Long">
+    delete from COMPONENT
+    where COMPONENT_ID = #{componentId,jdbcType=BIGINT}
+  </delete>
+  
+  <delete id="deleteComponentResourceByResourceId" parameterType="java.lang.Long">
+    delete from COMPONENT_RESOURCE
+    where RESOURCE_ID = #{resourceId,jdbcType=BIGINT}
+  </delete>
+  
+  <select id="selectParentIdByComponentLibId" resultType="java.lang.Long" parameterType="java.lang.Long" >
+    select PARENT_COMPONENT_LIB_ID from COMPONENT_RELATION where COMPONENT_LIB_ID = #{componentLibId,jdbcType=BIGINT}
+  </select>
+</mapper>
